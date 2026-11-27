@@ -1,0 +1,855 @@
+SeqID,ProteinName,c_sat_uM,salt_shape
+S0000,ADF3_m,,reentrant (interior peak)
+S0001,AF9_m,0.0,reentrant (interior peak)
+S0002,AFF4_m,,monotonic decreasing
+S0003,AK_m,,monotonic decreasing
+S0004,AKAP95,25.64102564102564,monotonic decreasing
+S0005,AKAP95_m,25.64102564102564,monotonic decreasing
+S0006,AKAP95_m,0.0,monotonic decreasing
+S0007,AKAP95_m,25.64102564102564,monotonic decreasing
+S0008,AKAP95_m,,monotonic decreasing
+S0009,AKAP95_m,,monotonic decreasing
+S0010,AKAP95_m,,reentrant (interior peak)
+S0011,AKAP95_m,,reentrant (interior peak)
+S0012,AKAP95_m,,monotonic decreasing
+S0013,AKAP95_m,,monotonic decreasing
+S0014,AK-Dbp1_m,0.0,monotonic decreasing
+S0015,AK-Dhh1_m,25.64102564102564,monotonic decreasing
+S0016,AK-ELP_m,666.6666666666666,reentrant (interior peak)
+S0017,Alpha-synuclein,25.64102564102564,monotonic decreasing
+S0018,ANKS4B ,,monotonic decreasing
+S0019,ANXA11,25.64102564102564,monotonic decreasing
+S0020,ANXA11_m,25.64102564102564,reentrant (interior peak)
+S0021,ANXA11_m,25.64102564102564,reentrant (interior peak)
+S0022,ANXA11_m,,monotonic decreasing
+S0023,APC_m,,monotonic decreasing
+S0024,APC_m,,reentrant (interior peak)
+S0025,APC_m,,reentrant (interior peak)
+S0026,APC_m,,monotonic decreasing
+S0027,APC_m,25.64102564102564,reentrant (interior peak)
+S0028,Ape1,,monotonic decreasing
+S0029,Ape1_m,,monotonic decreasing
+S0030,Ape1_m,,monotonic decreasing
+S0031,APGVG,25.64102564102564,reentrant (interior peak)
+S0032,APVGLG,102.56410256410255,reentrant (interior peak)
+S0033,APVGVG,25.64102564102564,reentrant (interior peak)
+S0034,AR_m,25.64102564102564,monotonic decreasing
+S0035,Atx2_m,,monotonic decreasing
+S0036,AURA,,reentrant (interior peak)
+S0037,AVPGVG,25.64102564102564,reentrant (interior peak)
+S0038,AVPGVG,,reentrant (interior peak)
+S0039,bElastin,102.56410256410255,reentrant (interior peak)
+S0040,BLG,,reentrant (interior peak)
+S0041,BRD3,25.64102564102564,monotonic decreasing
+S0042,BRD4,25.64102564102564,monotonic decreasing
+S0043,BRD4_m,0.0,monotonic decreasing
+S0044,BRD4_m,25.64102564102564,monotonic decreasing
+S0045,BRD4_m,25.64102564102564,monotonic decreasing
+S0046,BRD4_m,25.64102564102564,monotonic decreasing
+S0047,BRD4_m,25.64102564102564,monotonic decreasing
+S0048,BRD4_m,25.64102564102564,monotonic decreasing
+S0049,BRD4_m,25.64102564102564,monotonic decreasing
+S0050,BRD4_m,25.64102564102564,monotonic decreasing
+S0051,BRD4_m,25.64102564102564,monotonic decreasing
+S0052,BRD4_m,25.64102564102564,monotonic decreasing
+S0053,BRD4_m,25.64102564102564,monotonic decreasing
+S0054,BRD4_m,25.64102564102564,reentrant (interior peak)
+S0055,BRD4_m,,monotonic decreasing
+S0056,BRD4_m,,reentrant (interior peak)
+S0057,BRD4_m,,monotonic decreasing
+S0058,Bre1,,monotonic decreasing
+S0059,Brosi_A1236_m,0.0,reentrant (interior peak)
+S0060,Brosi_A1236_m,25.64102564102564,reentrant (interior peak)
+S0061,BthnRNPA2,25.64102564102564,monotonic decreasing
+S0062,BthnRNPA2_m,25.64102564102564,monotonic decreasing
+S0063,BthnRNPA2_m,25.64102564102564,monotonic decreasing
+S0064,BthnRNPA2_m,25.64102564102564,monotonic decreasing
+S0065,CAPRIN1_m,102.56410256410255,reentrant (interior peak)
+S0066,CAPRIN1_m,307.69230769230774,reentrant (interior peak)
+S0067,CAPRIN1_m,410.2564102564102,reentrant (interior peak)
+S0068,CAPRIN1_m,461.5384615384615,reentrant (interior peak)
+S0069,CAPRIN1_m,,monotonic decreasing
+S0070,CBHII-Resilin-CBHI_m,25.64102564102564,monotonic decreasing
+S0071,CBM-ADF3-CBM_m,,reentrant (interior peak)
+S0072,CBX2,0.0,reentrant (interior peak)
+S0073,CBX2_m,0.0,reentrant (interior peak)
+S0074,CBX2_m,0.0,reentrant (interior peak)
+S0075,Centrin-2,,reentrant (interior peak)
+S0076,complexin-1,25.64102564102564,monotonic decreasing
+S0077,cortactin_m,0.0,monotonic decreasing
+S0078,cortactin_m,0.0,monotonic decreasing
+S0079,CPSF6_m,25.64102564102564,reentrant (interior peak)
+S0080,CrRbcS_m,,reentrant (interior peak)
+S0081,CSTF2,25.64102564102564,monotonic decreasing
+S0082,CSTF2T,25.64102564102564,reentrant (interior peak)
+S0083,CYCT1_m,25.64102564102564,monotonic decreasing
+S0084,CYCT1_m,25.64102564102564,monotonic decreasing
+S0085,CYCT1_m,,monotonic decreasing
+S0086,Czf1,0.0,monotonic decreasing
+S0087,Czf1_m,25.64102564102564,monotonic decreasing
+S0088,DAXX,,monotonic decreasing
+S0089,DAXX_m,102.56410256410255,reentrant (interior peak)
+S0090,DAZAP1,25.64102564102564,monotonic decreasing
+S0091,DDX3X_m,25.64102564102564,monotonic decreasing
+S0092,DDX3X_m,25.64102564102564,monotonic decreasing
+S0093,DDX3X_m,25.64102564102564,monotonic decreasing
+S0094,DDX3X_m,25.64102564102564,monotonic decreasing
+S0095,DDX3X_m,25.64102564102564,monotonic decreasing
+S0096,DDX3X_m,25.64102564102564,monotonic decreasing
+S0097,DDX3X_m,25.64102564102564,monotonic decreasing
+S0098,DDX3X_m,76.92307692307693,monotonic decreasing
+S0099,DDX3X_m,76.92307692307693,monotonic decreasing
+S0100,DDX3X_m,25.64102564102564,monotonic decreasing
+S0101,DDX3X_m,25.64102564102564,monotonic decreasing
+S0102,DDX3X_m,25.64102564102564,monotonic decreasing
+S0103,DDX3X_m,25.64102564102564,monotonic decreasing
+S0104,DDX3X_m,25.64102564102564,monotonic decreasing
+S0105,DDX3X_m,25.64102564102564,monotonic decreasing
+S0106,DDX3X_m,25.64102564102564,monotonic decreasing
+S0107,DDX3X_m,,monotonic decreasing
+S0108,Ddx4_m,102.56410256410255,monotonic decreasing
+S0109,Ddx4_m,,monotonic decreasing
+S0110,Ddx4_m,,monotonic decreasing
+S0111,Ddx4_m,,monotonic decreasing
+S0112,Ddx4_m,,monotonic decreasing
+S0113,DDX4-DDX4_m,25.64102564102564,monotonic decreasing
+S0114,Ded1,0.0,monotonic decreasing
+S0115,DnaJB1,0.0,monotonic decreasing
+S0116,DnaJB1_m,0.0,monotonic decreasing
+S0117,DnaJB1_m,0.0,monotonic decreasing
+S0118,DnaJB1_m,0.0,monotonic decreasing
+S0119,DnaJB1_m,0.0,monotonic decreasing
+S0120,DnaJB1_m,0.0,monotonic decreasing
+S0121,DnaJB1_m,0.0,monotonic decreasing
+S0122,DnaJB1_m,0.0,monotonic decreasing
+S0123,DPGYIGSRG,25.64102564102564,monotonic decreasing
+S0124,Dronpa_m,25.64102564102564,monotonic decreasing
+S0125,DYRK1A_m,0.0,monotonic decreasing
+S0126,DYRK1A_m,,reentrant (interior peak)
+S0127,EBF1,0.0,monotonic decreasing
+S0128,EBF1_m,25.64102564102564,monotonic decreasing
+S0129,EBNA2_m,25.64102564102564,reentrant (interior peak)
+S0130,EBNALP_m,25.64102564102564,monotonic decreasing
+S0131,Edc3,25.64102564102564,monotonic decreasing
+S0132,Edc3_m,25.64102564102564,monotonic decreasing
+S0133,Edc3_m,25.64102564102564,monotonic decreasing
+S0134,Edc3_m,25.64102564102564,monotonic decreasing
+S0135,Edc3_m,,monotonic decreasing
+S0136,Edc3_m,,monotonic decreasing
+S0137,Efg1,25.64102564102564,monotonic decreasing
+S0138,Efg1_m,,monotonic decreasing
+S0139,Efg1_m,,monotonic decreasing
+S0140,Efg1_m,,monotonic decreasing
+S0141,EGFP,,monotonic decreasing
+S0142,EGFP-FCA_m,25.64102564102564,monotonic decreasing
+S0143,EGFP-FCA_m,,reentrant (interior peak)
+S0144,elF4GII_m,25.64102564102564,monotonic decreasing
+S0145,ELKS-1,25.64102564102564,monotonic decreasing
+S0146,ELKS-1_m,0.0,reentrant (interior peak)
+S0147,ELKS-1_m,0.0,reentrant (interior peak)
+S0148,ELKS-1_m,0.0,monotonic decreasing
+S0149,ELKS-1_m,0.0,reentrant (interior peak)
+S0150,ELKS-1_m,0.0,monotonic decreasing
+S0151,ELKS-1_m,25.64102564102564,reentrant (interior peak)
+S0152,ELKS-1_m,25.64102564102564,monotonic decreasing
+S0153,ELKS-1_m,,monotonic decreasing
+S0154,ELP(V),25.64102564102564,reentrant (interior peak)
+S0155,ELP(V1A1),25.64102564102564,reentrant (interior peak)
+S0156,ELP(V1A4),25.64102564102564,reentrant (interior peak)
+S0157,ELP(V4A1),25.64102564102564,reentrant (interior peak)
+S0158,ELP_1,25.64102564102564,reentrant (interior peak)
+S0159,ELP_10,25.64102564102564,reentrant (interior peak)
+S0160,ELP_11,25.64102564102564,reentrant (interior peak)
+S0161,ELP_12,25.64102564102564,reentrant (interior peak)
+S0162,ELP_2,25.64102564102564,reentrant (interior peak)
+S0163,ELP_3,25.64102564102564,reentrant (interior peak)
+S0164,ELP_4,25.64102564102564,reentrant (interior peak)
+S0165,ELP_5,25.64102564102564,reentrant (interior peak)
+S0166,ELP_6,25.64102564102564,reentrant (interior peak)
+S0167,ELP_7,25.64102564102564,reentrant (interior peak)
+S0168,ELP_8,25.64102564102564,reentrant (interior peak)
+S0169,ELP_9,25.64102564102564,reentrant (interior peak)
+S0170,EMB1579,0.0,monotonic decreasing
+S0171,EMB1579_m,0.0,monotonic decreasing
+S0172,engrailed-2,25.64102564102564,monotonic decreasing
+S0173,ENL_m,0.0,monotonic decreasing
+S0174,EPG-2,,monotonic decreasing
+S0175,EPYC1,,reentrant (interior peak)
+S0176,EPYC1_m,76.92307692307693,reentrant (interior peak)
+S0177,EPYC1_m,,reentrant (interior peak)
+S0178,EPYC1_m,,reentrant (interior peak)
+S0179,EPYC1_m,,reentrant (interior peak)
+S0180,EPYC1_m,,reentrant (interior peak)
+S0181,EPYC1_m,,reentrant (interior peak)
+S0182,ER,0.0,monotonic decreasing
+S0183,ERD14,0.0,monotonic decreasing
+S0184,EWSR1,25.64102564102564,monotonic decreasing
+S0185,EWSR1_m,,reentrant (interior peak)
+S0186,EWSR1_m,,monotonic decreasing
+S0187,FIB1,25.64102564102564,monotonic decreasing
+S0188,FIB1_m,25.64102564102564,monotonic decreasing
+S0189,FKBP39,25.64102564102564,monotonic decreasing
+S0190,FMRP,,reentrant (interior peak)
+S0191,FMRP_m,256.4102564102564,monotonic decreasing
+S0192,FMRP_m,25.64102564102564,monotonic decreasing
+S0193,FMRP_m,,reentrant (interior peak)
+S0194,FMRP_m,,reentrant (interior peak)
+S0195,FtsZ,,reentrant (interior peak)
+S0196,FUS,25.64102564102564,monotonic decreasing
+S0197,FUS_m,25.64102564102564,monotonic decreasing
+S0198,FUS_m,102.56410256410255,reentrant (interior peak)
+S0199,FUS_m,25.64102564102564,monotonic decreasing
+S0200,FUS_m,25.64102564102564,monotonic decreasing
+S0201,FUS_m,25.64102564102564,monotonic decreasing
+S0202,FUS_m,25.64102564102564,reentrant (interior peak)
+S0203,FUS_m,25.64102564102564,reentrant (interior peak)
+S0204,FUS_m,25.64102564102564,monotonic decreasing
+S0205,FUS_m,25.64102564102564,monotonic decreasing
+S0206,FUS_m,25.64102564102564,monotonic decreasing
+S0207,FUS_m,25.64102564102564,monotonic decreasing
+S0208,FUS_m,25.64102564102564,monotonic decreasing
+S0209,FUS_m,25.64102564102564,monotonic decreasing
+S0210,FUS_m,25.64102564102564,monotonic decreasing
+S0211,FUS_m,25.64102564102564,monotonic decreasing
+S0212,FUS_m,25.64102564102564,monotonic decreasing
+S0213,FUS_m,25.64102564102564,monotonic decreasing
+S0214,FUS_m,25.64102564102564,monotonic decreasing
+S0215,FUS_m,25.64102564102564,monotonic decreasing
+S0216,FUS_m,25.64102564102564,monotonic decreasing
+S0217,FUS_m,25.64102564102564,monotonic decreasing
+S0218,FUS_m,25.64102564102564,monotonic decreasing
+S0219,FUS_m,25.64102564102564,monotonic decreasing
+S0220,FUS_m,0.0,monotonic decreasing
+S0221,FUS_m,0.0,monotonic decreasing
+S0222,FUS_m,0.0,monotonic decreasing
+S0223,FUS_m,25.64102564102564,monotonic decreasing
+S0224,FUS_m,0.0,monotonic decreasing
+S0225,FUS_m,25.64102564102564,monotonic decreasing
+S0226,FUS_m,0.0,monotonic decreasing
+S0227,FUS_m,0.0,monotonic decreasing
+S0228,FUS_m,0.0,monotonic decreasing
+S0229,FUS_m,25.64102564102564,monotonic decreasing
+S0230,FUS_m,25.64102564102564,monotonic decreasing
+S0231,FUS_m,25.64102564102564,monotonic decreasing
+S0232,FUS_m,0.0,monotonic decreasing
+S0233,FUS_m,0.0,monotonic decreasing
+S0234,FUS_m,0.0,monotonic decreasing
+S0235,FUS_m,0.0,monotonic decreasing
+S0236,FUS_m,0.0,monotonic decreasing
+S0237,FUS_m,0.0,monotonic decreasing
+S0238,FUS_m,0.0,monotonic decreasing
+S0239,FUS_m,0.0,monotonic decreasing
+S0240,FUS_m,0.0,monotonic decreasing
+S0241,FUS_m,25.64102564102564,reentrant (interior peak)
+S0242,FUS_m,25.64102564102564,reentrant (interior peak)
+S0243,FUS_m,25.64102564102564,reentrant (interior peak)
+S0244,FUS_m,0.0,monotonic decreasing
+S0245,FUS_m,25.64102564102564,monotonic decreasing
+S0246,FUS_m,25.64102564102564,reentrant (interior peak)
+S0247,FUS_m,0.0,reentrant (interior peak)
+S0248,FUS_m,25.64102564102564,reentrant (interior peak)
+S0249,FUS_m,25.64102564102564,monotonic decreasing
+S0250,FUS_m,25.64102564102564,reentrant (interior peak)
+S0251,FUS_m,0.0,monotonic decreasing
+S0252,FUS_m,,reentrant (interior peak)
+S0253,FUS_m,25.64102564102564,monotonic decreasing
+S0254,FUS_m,25.64102564102564,monotonic decreasing
+S0255,FUS_m,,monotonic decreasing
+S0256,FUS_m,,reentrant (interior peak)
+S0257,FUS_m,410.2564102564102,monotonic decreasing
+S0258,FUS_m,,monotonic decreasing
+S0259,FUS_m,,monotonic decreasing
+S0260,FUS_m,769.2307692307692,monotonic decreasing
+S0261,FUS_m,,monotonic decreasing
+S0262,pFUS,25.64102564102564,monotonic decreasing
+S0263,FUS-EWSR1_m,25.64102564102564,monotonic decreasing
+S0264,FUS-hnRNPA1a_m,,monotonic decreasing
+S0265,G3BP1,25.64102564102564,monotonic decreasing
+S0266,G3BP1_m,25.64102564102564,monotonic decreasing
+S0267,G3BP1_m,25.64102564102564,monotonic decreasing
+S0268,G3BP1_m,25.64102564102564,monotonic decreasing
+S0269,G3BP1_m,25.64102564102564,monotonic decreasing
+S0270,G3BP1_m,,reentrant (interior peak)
+S0271,G3BP1_m,,monotonic decreasing
+S0272,G3BP1_m,,monotonic decreasing
+S0273,G3BP1_m,,monotonic decreasing
+S0274,G3BP2,25.64102564102564,monotonic decreasing
+S0275,GA-5-V0,,monotonic decreasing
+S0276,GA-5-V1,,monotonic decreasing
+S0277,Galectin-3,461.5384615384615,reentrant (interior peak)
+S0278,Galectin-3_m,,reentrant (interior peak)
+S0279,Galectin-3_m,,reentrant (interior peak)
+S0280,Galectin-3_m,,reentrant (interior peak)
+S0281,Galectin-3_m,,monotonic decreasing
+S0282,GAR-1_m,25.64102564102564,monotonic decreasing
+S0283,GATA2,0.0,monotonic decreasing
+S0284,GCN4,25.64102564102564,monotonic decreasing
+S0285,GCN4_m,51.28205128205128,monotonic decreasing
+S0286,GFP,,monotonic decreasing
+S0287,GFP-Dbp1_m,0.0,monotonic decreasing
+S0288,GFP-Dhh1_m,25.64102564102564,reentrant (interior peak)
+S0289,GI,25.64102564102564,monotonic decreasing
+S0290,GIT1,0.0,reentrant (interior peak)
+S0291,GKAP_m,,reentrant (interior peak)
+S0292,GM130,0.0,monotonic decreasing
+S0293,GP,,reentrant (interior peak)
+S0294,GR,25.64102564102564,monotonic decreasing
+S0295,GRASDSYG,25.64102564102564,reentrant (interior peak)
+S0296,GRDGSPYG,25.64102564102564,monotonic decreasing
+S0297,GRDGSPYQG,0.0,monotonic decreasing
+S0298,GRGDSAY,25.64102564102564,monotonic decreasing
+S0299,GRGDSAY,25.64102564102564,monotonic decreasing
+S0300,GRGDSPFG,25.64102564102564,monotonic decreasing
+S0301,GRGDSPYG,25.64102564102564,monotonic decreasing
+S0302,GRGESPYG,25.64102564102564,monotonic decreasing
+S0303,GRGNSPYG,25.64102564102564,reentrant (interior peak)
+S0304,GRPSDSYG,25.64102564102564,reentrant (interior peak)
+S0305,GVAPV,25.64102564102564,reentrant (interior peak)
+S0306,GVGAPV,51.28205128205128,reentrant (interior peak)
+S0307,GVGPV,25.64102564102564,reentrant (interior peak)
+S0308,GVPGAV,25.64102564102564,reentrant (interior peak)
+S0309,GVPGVA,25.64102564102564,reentrant (interior peak)
+S0310,GY-10-V1,,monotonic decreasing
+S0311,GY-10-V2,,monotonic decreasing
+S0312,GY-10-V3,,monotonic decreasing
+S0313,GY-15-V0,,monotonic decreasing
+S0314,GY-15-V1,,reentrant (interior peak)
+S0315,GY-20,256.4102564102564,reentrant (interior peak)
+S0316,GY-25-V2,384.6153846153846,reentrant (interior peak)
+S0317,H1,,monotonic decreasing
+S0318,H2B,,monotonic decreasing
+S0319,H3,,monotonic decreasing
+S0320,H4,,monotonic decreasing
+S0321,hBEX3,0.0,reentrant (interior peak)
+S0322,HBP-0_m,,monotonic decreasing
+S0323,HBP-0_m,,reentrant (interior peak)
+S0324,HBP-1_m,,reentrant (interior peak)
+S0325,HBP-1_m,,monotonic decreasing
+S0326,HBP-1_m,,reentrant (interior peak)
+S0327,HBP-1_m,,reentrant (interior peak)
+S0328,HBP-1_m,,reentrant (interior peak)
+S0329,HBP-1_m,256.4102564102564,reentrant (interior peak)
+S0330,HBP-1_m,51.28205128205128,monotonic decreasing
+S0331,HBP-1_m,102.56410256410255,reentrant (interior peak)
+S0332,HBP-1_m,102.56410256410255,reentrant (interior peak)
+S0333,HBP-1_m,153.84615384615387,reentrant (interior peak)
+S0334,HBP-1_m,179.48717948717947,reentrant (interior peak)
+S0335,HBP-1_m,256.4102564102564,reentrant (interior peak)
+S0336,HBP-1_m,307.69230769230774,reentrant (interior peak)
+S0337,HBP-1_m,256.4102564102564,reentrant (interior peak)
+S0338,HBP-2_m,25.64102564102564,reentrant (interior peak)
+S0339,HBP-2_m,25.64102564102564,monotonic decreasing
+S0340,HBP-2_m,,reentrant (interior peak)
+S0341,Hdj2,25.64102564102564,monotonic decreasing
+S0342,hEFhd2_m,25.64102564102564,monotonic decreasing
+S0343,hEFhd2_m,,monotonic decreasing
+S0344,hEFhd2_m,,monotonic decreasing
+S0345,hElastin,25.64102564102564,reentrant (interior peak)
+S0346,hElastin_m,25.64102564102564,reentrant (interior peak)
+S0347,hH2A,,monotonic decreasing
+S0348,hHP1α,25.64102564102564,reentrant (interior peak)
+S0349,hHP1α_m,25.64102564102564,reentrant (interior peak)
+S0350,hHP1α_m,25.64102564102564,monotonic decreasing
+S0351,hHP1α_m,25.64102564102564,monotonic decreasing
+S0352,hHP1α_m,,reentrant (interior peak)
+S0353,hHP1α-HP1β_m,25.64102564102564,monotonic decreasing
+S0354,HIV Gag protein,25.64102564102564,reentrant (interior peak)
+S0355,HIV NC protein,0.0,monotonic decreasing
+S0356,hNPM1,25.64102564102564,monotonic decreasing
+S0357,hNPM1,25.64102564102564,monotonic decreasing
+S0358,hNPM1_m,25.64102564102564,monotonic decreasing
+S0359,hNPM1_m,25.64102564102564,monotonic decreasing
+S0360,hNPM1_m,,monotonic decreasing
+S0361,hNPM1_m,,monotonic decreasing
+S0362,hNPM1_m,,monotonic decreasing
+S0363,hNPM1_m,,monotonic decreasing
+S0364,hNPM1_m,,monotonic decreasing
+S0365,hNPM1_m,,monotonic decreasing
+S0366,hnRNPA0,25.64102564102564,monotonic decreasing
+S0367,hnRNPA1,25.64102564102564,monotonic decreasing
+S0368,hnRNPA1_m,25.64102564102564,monotonic decreasing
+S0369,hnRNPA1_m,25.64102564102564,monotonic decreasing
+S0370,hnRNPA1_m,25.64102564102564,monotonic decreasing
+S0371,hnRNPA1_m,25.64102564102564,monotonic decreasing
+S0372,hnRNPA1_m,25.64102564102564,monotonic decreasing
+S0373,hnRNPA1_m,25.64102564102564,monotonic decreasing
+S0374,hnRNPA1_m,25.64102564102564,monotonic decreasing
+S0375,hnRNPA1_m,,monotonic decreasing
+S0376,hnRNPA1_m,,monotonic decreasing
+S0377,hnRNPA1_m,,reentrant (interior peak)
+S0378,hnRNPA1a_m,25.64102564102564,monotonic decreasing
+S0379,hnRNPA1a_m,25.64102564102564,monotonic decreasing
+S0380,hnRNPA1b,25.64102564102564,monotonic decreasing
+S0381,hnRNPA1L2,25.64102564102564,monotonic decreasing
+S0382,hnRNPA2,25.64102564102564,monotonic decreasing
+S0383,hnRNPA2_m,0.0,monotonic decreasing
+S0384,hnRNPA2_m,0.0,monotonic decreasing
+S0385,hnRNPA2_m,0.0,monotonic decreasing
+S0386,hnRNPA2_m,0.0,monotonic decreasing
+S0387,hnRNPA2_m,0.0,monotonic decreasing
+S0388,hnRNPA2_m,0.0,monotonic decreasing
+S0389,hnRNPA3,25.64102564102564,monotonic decreasing
+S0390,hnRNPAB,25.64102564102564,monotonic decreasing
+S0391,hnRNPD,25.64102564102564,monotonic decreasing
+S0392,hnRNPDL,25.64102564102564,monotonic decreasing
+S0393,hnRNPDL_m,25.64102564102564,monotonic decreasing
+S0394,hnRNPDL_m,25.64102564102564,monotonic decreasing
+S0395,hnRNPDL_m,,monotonic decreasing
+S0396,hnRNPDL_m,,monotonic decreasing
+S0397,hnRNPDL_m,,monotonic decreasing
+S0398,hnRNPDL_m,25.64102564102564,monotonic decreasing
+S0399,hnRNPDL_m,25.64102564102564,monotonic decreasing
+S0400,hnRNPDL_m,25.64102564102564,monotonic decreasing
+S0401,hnRNPF,,monotonic decreasing
+S0402,hnRNPF_m,,reentrant (interior peak)
+S0403,hnRNPF_m,,reentrant (interior peak)
+S0404,hnRNPH1,25.64102564102564,monotonic decreasing
+S0405,hnRNPH2,25.64102564102564,monotonic decreasing
+S0406,hnRNPH3,25.64102564102564,monotonic decreasing
+S0407,Homer3,,monotonic decreasing
+S0408,HP1β,,monotonic decreasing
+S0409,hRPB1_m,25.64102564102564,reentrant (interior peak)
+S0410,hRXRγ_m,25.64102564102564,reentrant (interior peak)
+S0411,hSUMO-mhnRNPA1_m,25.64102564102564,monotonic decreasing
+S0412,hSUMO-mhnRNPA1_m,25.64102564102564,monotonic decreasing
+S0413,hTIA1,25.64102564102564,monotonic decreasing
+S0414,hTIA1_m,,reentrant (interior peak)
+S0415,hTIA1_m,25.64102564102564,monotonic decreasing
+S0416,hTIA1_m,0.0,monotonic decreasing
+S0417,hTIA1_m,25.64102564102564,monotonic decreasing
+S0418,hTIA1_m,0.0,monotonic decreasing
+S0419,hU2AF65_m,25.64102564102564,reentrant (interior peak)
+S0420,I16,153.84615384615387,reentrant (interior peak)
+S0421,II16,25.64102564102564,reentrant (interior peak)
+S0422,IP5,51.28205128205128,reentrant (interior peak)
+S0423,IPMK,,monotonic decreasing
+S0424,LAF-1_m,25.64102564102564,reentrant (interior peak)
+S0425,LAF-1,25.64102564102564,monotonic decreasing
+S0426,LAF-1,0.0,monotonic decreasing
+S0427,LAF-1 RGG shuf,0.0,monotonic decreasing
+S0428,LAF-1 RGG shuf-pres,0.0,monotonic decreasing
+S0429,LAF-1_m,25.64102564102564,monotonic decreasing
+S0430,LAF-1_m,0.0,monotonic decreasing
+S0431,LAF-1_m,0.0,monotonic decreasing
+S0432,LAF-1_m,25.64102564102564,monotonic decreasing
+S0433,LAF-1_m,25.64102564102564,monotonic decreasing
+S0434,LAF-1_m,25.64102564102564,monotonic decreasing
+S0435,LAF-1_m,25.64102564102564,monotonic decreasing
+S0436,LAF-1_m,,monotonic decreasing
+S0437,LAF-1_m,307.69230769230774,monotonic decreasing
+S0438,LAF-1_m,25.64102564102564,monotonic decreasing
+S0439,LAF-1-ecAK-LAF-1_m,0.0,monotonic decreasing
+S0440,LAF1-Lge1_m,25.64102564102564,monotonic decreasing
+S0441,LAF-Dronpa_m,0.0,monotonic decreasing
+S0442,LEM2_m,0.0,monotonic decreasing
+S0443,LEM2_m,25.64102564102564,monotonic decreasing
+S0444,LEM2_m,25.64102564102564,monotonic decreasing
+S0445,LEM2_m,25.64102564102564,monotonic decreasing
+S0446,Lge1,0.0,monotonic decreasing
+S0447,Lge1_m,0.0,monotonic decreasing
+S0448,Lsm4_m,,monotonic decreasing
+S0449,LYS,,reentrant (interior peak)
+S0450,LYZ,,reentrant (interior peak)
+S0451,MeCP2,0.0,monotonic decreasing
+S0452,MeCP2_m,0.0,monotonic decreasing
+S0453,MeCP2_m,0.0,monotonic decreasing
+S0454,MeCP2_m,0.0,monotonic decreasing
+S0455,MeCP2_m,0.0,monotonic decreasing
+S0456,MeCP2_m,0.0,monotonic decreasing
+S0457,MeCP2_m,0.0,monotonic decreasing
+S0458,MeCP2_m,,monotonic decreasing
+S0459,MeCP2_m,,monotonic decreasing
+S0460,MED1_m,0.0,monotonic decreasing
+S0461,MED1_m,0.0,monotonic decreasing
+S0462,MED1_m,0.0,monotonic decreasing
+S0463,MED1_m,0.0,monotonic decreasing
+S0464,MED1_m,,monotonic decreasing
+S0465,MED15_m,51.28205128205128,monotonic decreasing
+S0466,MEG3,0.0,monotonic decreasing
+S0467,MEG3_m,0.0,monotonic decreasing
+S0468,Mfp-3S,25.64102564102564,reentrant (interior peak)
+S0469,Mfp3S-pep,25.64102564102564,reentrant (interior peak)
+S0470,mhnRNPA1_m,128.2051282051282,reentrant (interior peak)
+S0471,mHP1α,25.64102564102564,monotonic decreasing
+S0472,Mid1p_m,0.0,reentrant (interior peak)
+S0473,MLL4_m,0.0,monotonic decreasing
+S0474,mPrP_m,25.64102564102564,monotonic decreasing
+S0475,mPrP_m,25.64102564102564,reentrant (interior peak)
+S0476,MSMEG_1642_m,25.64102564102564,monotonic decreasing
+S0477,mU2AF65,25.64102564102564,reentrant (interior peak)
+S0478,MYC,0.0,monotonic decreasing
+S0479,MYO7B_m,,monotonic decreasing
+S0480,MYO7B_m,,monotonic decreasing
+S0481,N,76.92307692307693,monotonic decreasing
+S0482,N_m,,reentrant (interior peak)
+S0483,N_m,,monotonic decreasing
+S0484,N_m,,reentrant (interior peak)
+S0485,N_m,,reentrant (interior peak)
+S0486,N_m,,reentrant (interior peak)
+S0487,N_m,,reentrant (interior peak)
+S0488,N_m,,reentrant (interior peak)
+S0489,N_m,,reentrant (interior peak)
+S0490,N_m,,reentrant (interior peak)
+S0491,N-protein_m,,reentrant (interior peak)
+S0492,N-protein_m,,reentrant (interior peak)
+S0493,RSV nucleoprotein N,,monotonic decreasing
+S0494,NANOG,25.64102564102564,monotonic decreasing
+S0495,NAP,,reentrant (interior peak)
+S0496,Nephrin_m,,reentrant (interior peak)
+S0497,NR2B,,monotonic decreasing
+S0498,Numb_m,,reentrant (interior peak)
+S0499,Numb_m,,reentrant (interior peak)
+S0500,NUP98_m,0.0,monotonic decreasing
+S0501,OCT4,,monotonic decreasing
+S0502,Oleo30G,25.64102564102564,monotonic decreasing
+S0503,Oleo30G_m,25.64102564102564,monotonic decreasing
+S0504,Oleo30G_m,25.64102564102564,monotonic decreasing
+S0505,Oleo30G_m,25.64102564102564,monotonic decreasing
+S0506,Oleo30G_m,51.28205128205128,monotonic decreasing
+S0507,Oleo30G_m,25.64102564102564,monotonic decreasing
+S0508,Oleo30G_m,25.64102564102564,monotonic decreasing
+S0509,Oleo30G_m,25.64102564102564,monotonic decreasing
+S0510,Oleo30G_m,256.4102564102564,monotonic decreasing
+S0511,OVA,,reentrant (interior peak)
+S0512,p53,25.64102564102564,monotonic decreasing
+S0513,p53_m,,monotonic decreasing
+S0514,p53_m,,monotonic decreasing
+S0515,p53_m,25.64102564102564,monotonic decreasing
+S0516,p62,25.64102564102564,monotonic decreasing
+S0517,Pab1_m,25.64102564102564,monotonic decreasing
+S0518,Pab1_m,25.64102564102564,monotonic decreasing
+S0519,Pab1_m,25.64102564102564,monotonic decreasing
+S0520,Pab1_m,25.64102564102564,monotonic decreasing
+S0521,Pab1_m,25.64102564102564,monotonic decreasing
+S0522,Pab1_m,25.64102564102564,monotonic decreasing
+S0523,Pab1_m,25.64102564102564,monotonic decreasing
+S0524,Pab1_m,25.64102564102564,monotonic decreasing
+S0525,Pab1_m,,reentrant (interior peak)
+S0526,pAP_m,,monotonic decreasing
+S0527,Par3_m,25.64102564102564,reentrant (interior peak)
+S0528,Par3_m,25.64102564102564,reentrant (interior peak)
+S0529,Par3_m,25.64102564102564,reentrant (interior peak)
+S0530,Par3_m,25.64102564102564,reentrant (interior peak)
+S0531,Par6β,,monotonic decreasing
+S0532,Par6β_m,,monotonic decreasing
+S0533,Par6β_m,,monotonic decreasing
+S0534,Par6β_m,,monotonic decreasing
+S0535,Pbp1_m,0.0,monotonic decreasing
+S0536,Pbp1_m,25.64102564102564,reentrant (interior peak)
+S0537,Pbp1_m,25.64102564102564,monotonic decreasing
+S0538,PGL-1,25.64102564102564,reentrant (interior peak)
+S0539,PGL-1_m,25.64102564102564,monotonic decreasing
+S0540,PGL-1_m,,monotonic decreasing
+S0541,PGL-1_m,,monotonic decreasing
+S0542,PGL-1_m,,monotonic decreasing
+S0543,PGL-3,25.64102564102564,monotonic decreasing
+S0544,PGL-3_m,25.64102564102564,monotonic decreasing
+S0545,PGL-3_m,,monotonic decreasing
+S0546,PGL-3_m,564.1025641025641,monotonic decreasing
+S0547,PGL-3_m,,monotonic decreasing
+S0548,PGL-3_m,461.5384615384615,monotonic decreasing
+S0549,PGL-3_m,,monotonic decreasing
+S0550,Pmel17_m,128.2051282051282,monotonic decreasing
+S0551,polyE,,monotonic decreasing
+S0552,polyP,,monotonic decreasing
+S0553,polyR,,monotonic decreasing
+S0554,Pon_m,,monotonic decreasing
+S0555,Pon_m,,monotonic decreasing
+S0556,Pon_m,,monotonic decreasing
+S0557,Pon_m,,monotonic decreasing
+S0558,Pon_m,,monotonic decreasing
+S0559,Pon_m,,monotonic decreasing
+S0560,Pon_m,,monotonic decreasing
+S0561,PR,102.56410256410255,monotonic decreasing
+S0562,PR,25.64102564102564,monotonic decreasing
+S0563,PR,,reentrant (interior peak)
+S0564,PR,,reentrant (interior peak)
+S0565,Pros_m,25.64102564102564,monotonic decreasing
+S0566,Pros_m,,monotonic decreasing
+S0567,PrP_m,25.64102564102564,reentrant (interior peak)
+S0568,PSD-95,,monotonic decreasing
+S0569,PSD-95_m,,monotonic decreasing
+S0570,PSPC1,25.64102564102564,monotonic decreasing
+S0571,Pub1,25.64102564102564,monotonic decreasing
+S0572,Pub1_m,0.0,reentrant (interior peak)
+S0573,Pub1_m,25.64102564102564,monotonic decreasing
+S0574,Pub1_m,,reentrant (interior peak)
+S0575,QYPSDGRG,25.64102564102564,monotonic decreasing
+S0576,R32,25.64102564102564,reentrant (interior peak)
+S0577,Rad52,,reentrant (interior peak)
+S0578,Rad6,25.64102564102564,monotonic decreasing
+S0579,RARa,0.0,reentrant (interior peak)
+S0580,reflectins A1,0.0,monotonic decreasing
+S0581,reflectins A1_m,0.0,monotonic decreasing
+S0582,reflectins A1_m,0.0,monotonic decreasing
+S0583,reflectins A1_m,0.0,monotonic decreasing
+S0584,reflectins A1_m,0.0,monotonic decreasing
+S0585,RGDAPYQG,25.64102564102564,monotonic decreasing
+S0586,RGDSPHG,25.64102564102564,reentrant (interior peak)
+S0587,RGDSPYG,25.64102564102564,monotonic decreasing
+S0588,RGDSPYQG,25.64102564102564,monotonic decreasing
+S0589,RGDSYPG,25.64102564102564,monotonic decreasing
+S0590,RIM1α,25.64102564102564,monotonic decreasing
+S0591,rmfp-3b,25.64102564102564,monotonic decreasing
+S0592,rmfp-3b-NT,0.0,monotonic decreasing
+S0593,Rnase E_m,25.64102564102564,reentrant (interior peak)
+S0594,RSV phosphoprotein P,,reentrant (interior peak)
+S0595,Rv1747_m,307.69230769230774,monotonic decreasing
+S0596,scRPB1_m,25.64102564102564,reentrant (interior peak)
+S0597,scSup35,25.64102564102564,monotonic decreasing
+S0598,scSup35_m,25.64102564102564,monotonic decreasing
+S0599,scSup35_m,0.0,monotonic decreasing
+S0600,scSup35_m,25.64102564102564,monotonic decreasing
+S0601,SEPA-1,,monotonic decreasing
+S0602,Shank3_m,,reentrant (interior peak)
+S0603,SKGP-[GRGDQPYQ]20-GY,410.2564102564102,reentrant (interior peak)
+S0604,SKGP-[GRGDQPYS]20-GY,25.64102564102564,monotonic decreasing
+S0605,SKGP-[GRGDSPYQ]20-GY,25.64102564102564,monotonic decreasing
+S0606,SKGP-[GRGDSPYS]20-GY,25.64102564102564,monotonic decreasing
+S0607,SlmA,0.0,monotonic decreasing
+S0608,Snf5_m,,monotonic decreasing
+S0609,SOX2,0.0,monotonic decreasing
+S0610,Spa2_m,0.0,reentrant (interior peak)
+S0611,Spa2_m,,monotonic decreasing
+S0612,SPD-5,0.0,monotonic decreasing
+S0613,SPOP_m,,monotonic decreasing
+S0614,SPOP_m,,monotonic decreasing
+S0615,SPOP_m,,monotonic decreasing
+S0616,spSup35,25.64102564102564,monotonic decreasing
+S0617,SpyC1-ADF3-SpyC2_m,25.64102564102564,monotonic decreasing
+S0618,SRC-3_m,0.0,monotonic decreasing
+S0619,Sth1_m,,monotonic decreasing
+S0620,SUMO-FUS_m,,monotonic decreasing
+S0621,SYD-2_m,25.64102564102564,monotonic decreasing
+S0622,SYD-2_m,0.0,monotonic decreasing
+S0623,SYD-2_m,0.0,reentrant (interior peak)
+S0624,SYD-2_m,0.0,reentrant (interior peak)
+S0625,SYD-2_m,25.64102564102564,reentrant (interior peak)
+S0626,SYD-2_m,0.0,monotonic decreasing
+S0627,SYD-2_m,0.0,reentrant (interior peak)
+S0628,SYD-2_m,0.0,reentrant (interior peak)
+S0629,SYD-2_m,0.0,reentrant (interior peak)
+S0630,SYD-2_m,0.0,reentrant (interior peak)
+S0631,SYD-2_m,0.0,reentrant (interior peak)
+S0632,SYD-2_m,0.0,reentrant (interior peak)
+S0633,SYD-2_m,0.0,monotonic decreasing
+S0634,SYD-2_m,0.0,reentrant (interior peak)
+S0635,SYD-2_m,0.0,reentrant (interior peak)
+S0636,SYD-2_m,0.0,reentrant (interior peak)
+S0637,SYD-2_m,0.0,reentrant (interior peak)
+S0638,SYD-2_m,0.0,monotonic decreasing
+S0639,SYD-2_m,0.0,monotonic decreasing
+S0640,SYD-2_m,0.0,reentrant (interior peak)
+S0641,SYD-2_m,25.64102564102564,monotonic decreasing
+S0642,SYN1,25.64102564102564,monotonic decreasing
+S0643,SYN1_m,0.0,reentrant (interior peak)
+S0644,SYN1_m,,monotonic decreasing
+S0645,SYN2,25.64102564102564,monotonic decreasing
+S0646,Synapsin_m,0.0,monotonic decreasing
+S0647,SynGAP_m,,reentrant (interior peak)
+S0648,SynGAP_m,,reentrant (interior peak)
+S0649,SynGAP_m,,reentrant (interior peak)
+S0650,TACC3,25.64102564102564,monotonic decreasing
+S0651,TACC3,0.0,monotonic decreasing
+S0652,TACC3_m,0.0,monotonic decreasing
+S0653,TACC3_m,,reentrant (interior peak)
+S0654,Taf14_m,25.64102564102564,monotonic decreasing
+S0655,TAF15,25.64102564102564,monotonic decreasing
+S0656,TAF15_m,25.64102564102564,monotonic decreasing
+S0657,TAF15_m,25.64102564102564,monotonic decreasing
+S0658,TAF15_m,25.64102564102564,monotonic decreasing
+S0659,TAF15_m,,monotonic decreasing
+S0660,TAF15_m,,monotonic decreasing
+S0661,TAF15_m,,monotonic decreasing
+S0662,Tau,25.64102564102564,monotonic decreasing
+S0663,Tau_m,25.64102564102564,monotonic decreasing
+S0664,Tau_m,25.64102564102564,monotonic decreasing
+S0665,Tau_m,0.0,monotonic decreasing
+S0666,Tau_m,0.0,monotonic decreasing
+S0667,Tau_m,0.0,monotonic decreasing
+S0668,Tau_m,0.0,monotonic decreasing
+S0669,Tau_m,0.0,monotonic decreasing
+S0670,Tau_m,0.0,monotonic decreasing
+S0671,Tau_m,25.64102564102564,monotonic decreasing
+S0672,Tau_m,25.64102564102564,monotonic decreasing
+S0673,Tau_m,25.64102564102564,monotonic decreasing
+S0674,Tau_m,25.64102564102564,monotonic decreasing
+S0675,Tau_m,25.64102564102564,monotonic decreasing
+S0676,Tau_m,25.64102564102564,monotonic decreasing
+S0677,Tau_m,25.64102564102564,monotonic decreasing
+S0678,Tau_m,0.0,monotonic decreasing
+S0679,Tau_m,0.0,monotonic decreasing
+S0680,Tau_m,25.64102564102564,monotonic decreasing
+S0681,Tau_m,25.64102564102564,monotonic decreasing
+S0682,Tau_m,179.48717948717947,monotonic decreasing
+S0683,Tau_m,,monotonic decreasing
+S0684,Tau_m,,monotonic decreasing
+S0685,Tau_m,,monotonic decreasing
+S0686,Tau_m,,monotonic decreasing
+S0687,Tau_m,,reentrant (interior peak)
+S0688,Tau_m,,monotonic decreasing
+S0689,TAZ,25.64102564102564,reentrant (interior peak)
+S0690,TAZ_m,25.64102564102564,reentrant (interior peak)
+S0691,TAZ_m,25.64102564102564,reentrant (interior peak)
+S0692,TAZ_m,,reentrant (interior peak)
+S0693,TAZ_m,,reentrant (interior peak)
+S0694,TAZ-YAP-TAZ_m,25.64102564102564,reentrant (interior peak)
+S0695,TAZ-YAP-TAZ_m,,reentrant (interior peak)
+S0696,TAZ-YAP-TAZ-YAP-TAZ_m,,reentrant (interior peak)
+S0697,TDP-43,25.64102564102564,reentrant (interior peak)
+S0698,TDP-43_m,51.28205128205128,reentrant (interior peak)
+S0699,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0700,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0701,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0702,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0703,TDP-43_m,0.0,reentrant (interior peak)
+S0704,TDP-43_m,51.28205128205128,reentrant (interior peak)
+S0705,TDP-43_m,51.28205128205128,monotonic decreasing
+S0706,TDP-43_m,51.28205128205128,reentrant (interior peak)
+S0707,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0708,TDP-43_m,51.28205128205128,reentrant (interior peak)
+S0709,TDP-43_m,0.0,reentrant (interior peak)
+S0710,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0711,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0712,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0713,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0714,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0715,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0716,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0717,TDP-43_m,51.28205128205128,reentrant (interior peak)
+S0718,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0719,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0720,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0721,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0722,TDP-43_m,0.0,reentrant (interior peak)
+S0723,TDP-43_m,0.0,reentrant (interior peak)
+S0724,TDP-43_m,0.0,reentrant (interior peak)
+S0725,TDP-43_m,0.0,reentrant (interior peak)
+S0726,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0727,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0728,TDP-43_m,51.28205128205128,reentrant (interior peak)
+S0729,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0730,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0731,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0732,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0733,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0734,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0735,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0736,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0737,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0738,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0739,TDP-43_m,25.64102564102564,reentrant (interior peak)
+S0740,TDP-43_m,,reentrant (interior peak)
+S0741,TDP-43_m,,monotonic decreasing
+S0742,TDP-43_m,,reentrant (interior peak)
+S0743,TDP-43_m,,monotonic decreasing
+S0744,TDP-43-MBP,0.0,monotonic decreasing
+S0745,TDP-43-MBP_m,0.0,monotonic decreasing
+S0746,TEAD4,,monotonic decreasing
+S0747,TFE3,25.64102564102564,reentrant (interior peak)
+S0748,TFEB,0.0,monotonic decreasing
+S0749,TFEB_m,25.64102564102564,reentrant (interior peak)
+S0750,TFEB_m,25.64102564102564,reentrant (interior peak)
+S0751,TFEB_m,,monotonic decreasing
+S0752,TIAL1,25.64102564102564,monotonic decreasing
+S0753,TIAR-2,0.0,monotonic decreasing
+S0754,TOG_m,,monotonic decreasing
+S0755,TPVAVG,25.64102564102564,reentrant (interior peak)
+S0756,TPVAVG,25.64102564102564,monotonic decreasing
+S0757,TPVAVG,25.64102564102564,reentrant (interior peak)
+S0758,TPX2,0.0,monotonic decreasing
+S0759,TVPGAG,25.64102564102564,reentrant (interior peak)
+S0760,TVPGVG,25.64102564102564,reentrant (interior peak)
+S0761,U1-70K_m,0.0,reentrant (interior peak)
+S0762,U1-70K_m,25.64102564102564,monotonic decreasing
+S0763,U1-70K_m,25.64102564102564,monotonic decreasing
+S0764,U1-70K_m,25.64102564102564,monotonic decreasing
+S0765,UBQLN2,76.92307692307693,monotonic decreasing
+S0766,UBQLN2_m,51.28205128205128,monotonic decreasing
+S0767,UBQLN2_m,76.92307692307693,reentrant (interior peak)
+S0768,UBQLN2_m,25.64102564102564,reentrant (interior peak)
+S0769,UBQLN2_m,76.92307692307693,reentrant (interior peak)
+S0770,UBQLN2_m,25.64102564102564,reentrant (interior peak)
+S0771,UBQLN2_m,25.64102564102564,reentrant (interior peak)
+S0772,UBQLN2_m,76.92307692307693,reentrant (interior peak)
+S0773,UBQLN2_m,25.64102564102564,reentrant (interior peak)
+S0774,UBQLN2_m,76.92307692307693,reentrant (interior peak)
+S0775,UBQLN2_m,25.64102564102564,reentrant (interior peak)
+S0776,UBQLN2_m,51.28205128205128,reentrant (interior peak)
+S0777,UBQLN2_m,25.64102564102564,reentrant (interior peak)
+S0778,UBQLN2_m,,monotonic decreasing
+S0779,UBQLN2_m,,monotonic decreasing
+S0780,UBQLN2_m,512.8205128205128,reentrant (interior peak)
+S0781,UBQLN2_m,102.56410256410255,reentrant (interior peak)
+S0782,UBQLN2_m,205.1282051282051,reentrant (interior peak)
+S0783,UBQLN2_m,,reentrant (interior peak)
+S0784,UBQLN2_m,,reentrant (interior peak)
+S0785,UL11,25.64102564102564,reentrant (interior peak)
+S0786,USH1C,,reentrant (interior peak)
+S0787,VAPGVG,25.64102564102564,reentrant (interior peak)
+S0788,VAPVG,25.64102564102564,reentrant (interior peak)
+S0789,VAPVG,25.64102564102564,reentrant (interior peak)
+S0790,VAPVG,25.64102564102564,monotonic decreasing
+S0791,VAPVG,25.64102564102564,reentrant (interior peak)
+S0792,VAPVG,25.64102564102564,reentrant (interior peak)
+S0793,VAPVG,25.64102564102564,reentrant (interior peak)
+S0794,VGAPVG,25.64102564102564,reentrant (interior peak)
+S0795,VGPAVG,25.64102564102564,reentrant (interior peak)
+S0796,VGPVG,25.64102564102564,reentrant (interior peak)
+S0797,VGPVG,25.64102564102564,monotonic decreasing
+S0798,VHL_m,,reentrant (interior peak)
+S0799,VHPGVG,102.56410256410255,reentrant (interior peak)
+S0800,VHPGVG,25.64102564102564,reentrant (interior peak)
+S0801,VPAGLG,25.64102564102564,reentrant (interior peak)
+S0802,VPAGVG,,reentrant (interior peak)
+S0803,VPAVG,25.64102564102564,reentrant (interior peak)
+S0804,VPGAVG,25.64102564102564,reentrant (interior peak)
+S0805,VPGVA,25.64102564102564,reentrant (interior peak)
+S0806,VPGVG,25.64102564102564,reentrant (interior peak)
+S0807,VPGVG,51.28205128205128,reentrant (interior peak)
+S0808,VPGVG,25.64102564102564,reentrant (interior peak)
+S0809,VPHSRNGG,25.64102564102564,reentrant (interior peak)
+S0810,VPHSRNGGNSGGRGDSPYG,25.64102564102564,reentrant (interior peak)
+S0811,VPHVG,205.1282051282051,reentrant (interior peak)
+S0812,VPSALYGVG,25.64102564102564,reentrant (interior peak)
+S0813,VPSDDYGQG,25.64102564102564,reentrant (interior peak)
+S0814,VPSDDYGVG,25.64102564102564,reentrant (interior peak)
+S0815,VPSTDYGVG,51.28205128205128,reentrant (interior peak)
+S0816,VPTGVG,25.64102564102564,reentrant (interior peak)
+S0817,VRPDG,25.64102564102564,reentrant (interior peak)
+S0818,VRPDG,25.64102564102564,reentrant (interior peak)
+S0819,VRPDG,307.69230769230774,reentrant (interior peak)
+S0820,VRPVG,51.28205128205128,reentrant (interior peak)
+S0821,VTPAVG,25.64102564102564,reentrant (interior peak)
+S0822,WAC-Lge1_m,25.64102564102564,monotonic decreasing
+S0823,Whi3,25.64102564102564,monotonic decreasing
+S0824,Whi3,25.64102564102564,monotonic decreasing
+S0825,Whi3,25.64102564102564,monotonic decreasing
+S0826,Whi3,25.64102564102564,monotonic decreasing
+S0827,Whi3_m,,monotonic decreasing
+S0828,Whi3_m,,monotonic decreasing
+S0829,YAP,102.56410256410255,monotonic decreasing
+S0830,YAP,25.64102564102564,reentrant (interior peak)
+S0831,YAP_m,25.64102564102564,monotonic decreasing
+S0832,YAP-2α,,monotonic decreasing
+S0833,YAP-TAZ-YAP_m,25.64102564102564,reentrant (interior peak)
+S0834,YAP-TAZ-YAP_m,0.0,reentrant (interior peak)
+S0835,YAP-TAZ-YAP-TAZ-YAP_m,0.0,reentrant (interior peak)
+S0836,ZO1,25.64102564102564,monotonic decreasing
+S0837,ZO1_m,25.64102564102564,monotonic decreasing
+S0838,ZO1_m,,reentrant (interior peak)
+S0839,ZO1_m,,reentrant (interior peak)
+S0840,ZO2,25.64102564102564,monotonic decreasing
+S0841,ZO2_m,25.64102564102564,monotonic decreasing
+S0842,ZO2_m,,reentrant (interior peak)
+S0843,ZO2_m,,reentrant (interior peak)
+S0844,ZO3,25.64102564102564,monotonic decreasing
+S0845,ZO3_m,25.64102564102564,monotonic decreasing
+S0846,ZO3_m,,monotonic decreasing
+S0847,ZO3_m,,reentrant (interior peak)
+S0848,zRbm14b,0.0,monotonic decreasing
+S0849,zRbm14b_m,0.0,monotonic decreasing
+S0850,zRbm14b_m,,reentrant (interior peak)
+S0851,β-amyloid_m,,monotonic decreasing
+S0852,β-synuclein,25.64102564102564,reentrant (interior peak)
+S0853,γ-gliadin,25.64102564102564,reentrant (interior peak)

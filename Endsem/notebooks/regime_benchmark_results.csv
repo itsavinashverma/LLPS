@@ -1,0 +1,5 @@
+,ROC-AUC,PR-AUC,Accuracy,F1,Brier
+"A  new condition, known protein",0.834 ± 0.009,0.848,0.76,0.785,0.171
+B  new protein,0.783 ± 0.013,0.8,0.718,0.734,0.204
+C  new family (their groups),0.682 ± 0.031,0.703,0.631,0.655,0.241
+C* new family (hardened),0.648 ± 0.040,0.692,0.607,0.606,0.264

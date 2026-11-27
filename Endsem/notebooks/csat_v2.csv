@@ -1,0 +1,855 @@
+SeqID,ProteinName,c_sat_uM,salt_shape
+S0000,ADF3_m,,monotonic increasing
+S0001,AF9_m,0.5,monotonic decreasing
+S0002,AFF4_m,,flat (no salt response)
+S0003,AK_m,,flat (no salt response)
+S0004,AKAP95,0.5,monotonic decreasing
+S0005,AKAP95_m,1.0216354220959374,monotonic decreasing
+S0006,AKAP95_m,0.5,monotonic decreasing
+S0007,AKAP95_m,0.5,monotonic decreasing
+S0008,AKAP95_m,,flat (no salt response)
+S0009,AKAP95_m,,flat (no salt response)
+S0010,AKAP95_m,,flat (no salt response)
+S0011,AKAP95_m,,monotonic increasing
+S0012,AKAP95_m,,monotonic decreasing
+S0013,AKAP95_m,,flat (no salt response)
+S0014,AK-Dbp1_m,0.5,monotonic decreasing
+S0015,AK-Dhh1_m,2.087477871362288,monotonic decreasing
+S0016,AK-ELP_m,,monotonic increasing
+S0017,Alpha-synuclein,1.0216354220959374,monotonic decreasing
+S0018,ANKS4B ,,flat (no salt response)
+S0019,ANXA11,25.45438821590539,reentrant (true interior peak)
+S0020,ANXA11_m,1.4603565784510095,monotonic decreasing
+S0021,ANXA11_m,2.6488896091157375,reentrant (true interior peak)
+S0022,ANXA11_m,,flat (no salt response)
+S0023,APC_m,,flat (no salt response)
+S0024,APC_m,,monotonic decreasing
+S0025,APC_m,,monotonic decreasing
+S0026,APC_m,,flat (no salt response)
+S0027,APC_m,2.087477871362288,reentrant (true interior peak)
+S0028,Ape1,,flat (no salt response)
+S0029,Ape1_m,,flat (no salt response)
+S0030,Ape1_m,,flat (no salt response)
+S0031,APGVG,5.412398907788997,monotonic increasing
+S0032,APVGLG,94.3394955801373,monotonic increasing
+S0033,APVGVG,14.033232322562647,monotonic increasing
+S0034,AR_m,0.5632367631712766,monotonic decreasing
+S0035,Atx2_m,,monotonic decreasing
+S0036,AURA,,monotonic decreasing
+S0037,AVPGVG,2.087477871362288,flat (no salt response)
+S0038,AVPGVG,,monotonic increasing
+S0039,bElastin,106.270944259535,monotonic increasing
+S0040,BLG,,flat (no salt response)
+S0041,BRD3,0.5,monotonic decreasing
+S0042,BRD4,2.087477871362288,monotonic decreasing
+S0043,BRD4_m,0.5,flat (no salt response)
+S0044,BRD4_m,1.0216354220959374,monotonic decreasing
+S0045,BRD4_m,0.7147151258004609,monotonic decreasing
+S0046,BRD4_m,0.5,monotonic decreasing
+S0047,BRD4_m,0.5,monotonic decreasing
+S0048,BRD4_m,0.5,monotonic decreasing
+S0049,BRD4_m,6.096924083629654,monotonic decreasing
+S0050,BRD4_m,12.457667219331736,monotonic decreasing
+S0051,BRD4_m,0.5,monotonic decreasing
+S0052,BRD4_m,0.5,monotonic decreasing
+S0053,BRD4_m,0.5,monotonic decreasing
+S0054,BRD4_m,0.5,reentrant (true interior peak)
+S0055,BRD4_m,,monotonic decreasing
+S0056,BRD4_m,,flat (no salt response)
+S0057,BRD4_m,,flat (no salt response)
+S0058,Bre1,,flat (no salt response)
+S0059,Brosi_A1236_m,0.5,flat (no salt response)
+S0060,Brosi_A1236_m,2.087477871362288,monotonic decreasing
+S0061,BthnRNPA2,3.7864029404213757,monotonic decreasing
+S0062,BthnRNPA2_m,6.096924083629654,monotonic decreasing
+S0063,BthnRNPA2_m,0.5,monotonic decreasing
+S0064,BthnRNPA2_m,3.7864029404213757,monotonic decreasing
+S0065,CAPRIN1_m,94.3394955801373,monotonic increasing
+S0066,CAPRIN1_m,310.3869450952251,monotonic increasing
+S0067,CAPRIN1_m,443.6764890211091,monotonic increasing
+S0068,CAPRIN1_m,443.6764890211091,monotonic increasing
+S0069,CAPRIN1_m,,monotonic decreasing
+S0070,CBHII-Resilin-CBHI_m,0.5,monotonic decreasing
+S0071,CBM-ADF3-CBM_m,,monotonic increasing
+S0072,CBX2,0.5,monotonic decreasing
+S0073,CBX2_m,0.5,monotonic decreasing
+S0074,CBX2_m,0.5,monotonic decreasing
+S0075,Centrin-2,,flat (no salt response)
+S0076,complexin-1,0.5,monotonic decreasing
+S0077,cortactin_m,0.5,monotonic decreasing
+S0078,cortactin_m,0.5,monotonic decreasing
+S0079,CPSF6_m,0.5,monotonic decreasing
+S0080,CrRbcS_m,,flat (no salt response)
+S0081,CSTF2,0.5632367631712766,monotonic decreasing
+S0082,CSTF2T,0.5632367631712766,monotonic decreasing
+S0083,CYCT1_m,15.808064700381438,monotonic decreasing
+S0084,CYCT1_m,0.5,monotonic decreasing
+S0085,CYCT1_m,,flat (no salt response)
+S0086,Czf1,0.5,monotonic decreasing
+S0087,Czf1_m,0.5,monotonic decreasing
+S0088,DAXX,,flat (no salt response)
+S0089,DAXX_m,94.3394955801373,reentrant (true interior peak)
+S0090,DAZAP1,0.5632367631712766,monotonic decreasing
+S0091,DDX3X_m,0.5,monotonic decreasing
+S0092,DDX3X_m,0.5632367631712766,monotonic decreasing
+S0093,DDX3X_m,0.5,monotonic decreasing
+S0094,DDX3X_m,0.5,monotonic decreasing
+S0095,DDX3X_m,14.033232322562647,monotonic decreasing
+S0096,DDX3X_m,11.0589968854212,monotonic decreasing
+S0097,DDX3X_m,11.0589968854212,monotonic decreasing
+S0098,DDX3X_m,65.99797050221912,monotonic decreasing
+S0099,DDX3X_m,83.7476366501394,monotonic decreasing
+S0100,DDX3X_m,15.808064700381438,monotonic decreasing
+S0101,DDX3X_m,15.808064700381438,monotonic decreasing
+S0102,DDX3X_m,20.059526809614912,monotonic decreasing
+S0103,DDX3X_m,11.0589968854212,monotonic decreasing
+S0104,DDX3X_m,11.0589968854212,monotonic decreasing
+S0105,DDX3X_m,11.0589968854212,monotonic decreasing
+S0106,DDX3X_m,6.096924083629654,monotonic decreasing
+S0107,DDX3X_m,,flat (no salt response)
+S0108,Ddx4_m,134.85172890301973,monotonic decreasing
+S0109,Ddx4_m,,flat (no salt response)
+S0110,Ddx4_m,,flat (no salt response)
+S0111,Ddx4_m,,flat (no salt response)
+S0112,Ddx4_m,,monotonic decreasing
+S0113,DDX4-DDX4_m,11.0589968854212,monotonic decreasing
+S0114,Ded1,0.5,monotonic decreasing
+S0115,DnaJB1,0.5,monotonic decreasing
+S0116,DnaJB1_m,0.5,flat (no salt response)
+S0117,DnaJB1_m,0.5,monotonic decreasing
+S0118,DnaJB1_m,0.5,monotonic decreasing
+S0119,DnaJB1_m,0.5,monotonic decreasing
+S0120,DnaJB1_m,0.5,monotonic decreasing
+S0121,DnaJB1_m,0.5,monotonic decreasing
+S0122,DnaJB1_m,0.5,monotonic decreasing
+S0123,DPGYIGSRG,0.5632367631712766,flat (no salt response)
+S0124,Dronpa_m,0.5,monotonic decreasing
+S0125,DYRK1A_m,0.5,monotonic decreasing
+S0126,DYRK1A_m,,flat (no salt response)
+S0127,EBF1,0.5,monotonic decreasing
+S0128,EBF1_m,12.457667219331736,reentrant (true interior peak)
+S0129,EBNA2_m,2.6488896091157375,reentrant (true interior peak)
+S0130,EBNALP_m,2.6488896091157375,reentrant (true interior peak)
+S0131,Edc3,12.457667219331736,monotonic decreasing
+S0132,Edc3_m,0.5632367631712766,monotonic decreasing
+S0133,Edc3_m,1.4603565784510095,monotonic decreasing
+S0134,Edc3_m,2.6488896091157375,monotonic decreasing
+S0135,Edc3_m,,monotonic decreasing
+S0136,Edc3_m,,flat (no salt response)
+S0137,Efg1,1.1508452565648732,monotonic decreasing
+S0138,Efg1_m,,monotonic decreasing
+S0139,Efg1_m,,flat (no salt response)
+S0140,Efg1_m,,monotonic decreasing
+S0141,EGFP,,flat (no salt response)
+S0142,EGFP-FCA_m,0.5,monotonic decreasing
+S0143,EGFP-FCA_m,,flat (no salt response)
+S0144,elF4GII_m,3.7864029404213757,monotonic decreasing
+S0145,ELKS-1,0.5,monotonic decreasing
+S0146,ELKS-1_m,0.5,monotonic decreasing
+S0147,ELKS-1_m,0.5,monotonic decreasing
+S0148,ELKS-1_m,0.5,monotonic decreasing
+S0149,ELKS-1_m,0.5,monotonic decreasing
+S0150,ELKS-1_m,0.5,monotonic decreasing
+S0151,ELKS-1_m,0.5,monotonic decreasing
+S0152,ELKS-1_m,0.5,reentrant (true interior peak)
+S0153,ELKS-1_m,,monotonic decreasing
+S0154,ELP(V),2.6488896091157375,flat (no salt response)
+S0155,ELP(V1A1),2.087477871362288,flat (no salt response)
+S0156,ELP(V1A4),1.4603565784510095,flat (no salt response)
+S0157,ELP(V4A1),1.4603565784510095,flat (no salt response)
+S0158,ELP_1,2.6488896091157375,monotonic increasing
+S0159,ELP_10,1.4603565784510095,monotonic increasing
+S0160,ELP_11,11.0589968854212,flat (no salt response)
+S0161,ELP_12,2.087477871362288,monotonic increasing
+S0162,ELP_2,2.9839040188727513,monotonic increasing
+S0163,ELP_3,4.804728012882856,monotonic increasing
+S0164,ELP_4,2.6488896091157375,monotonic increasing
+S0165,ELP_5,2.6488896091157375,monotonic increasing
+S0166,ELP_6,1.6450530246452542,monotonic increasing
+S0167,ELP_7,1.4603565784510095,flat (no salt response)
+S0168,ELP_8,1.4603565784510095,flat (no salt response)
+S0169,ELP_9,2.087477871362288,monotonic increasing
+S0170,EMB1579,0.5,monotonic decreasing
+S0171,EMB1579_m,0.5,monotonic decreasing
+S0172,engrailed-2,3.7864029404213757,monotonic decreasing
+S0173,ENL_m,0.5,monotonic decreasing
+S0174,EPG-2,,flat (no salt response)
+S0175,EPYC1,,flat (no salt response)
+S0176,EPYC1_m,74.3449665630866,flat (no salt response)
+S0177,EPYC1_m,,flat (no salt response)
+S0178,EPYC1_m,,flat (no salt response)
+S0179,EPYC1_m,,flat (no salt response)
+S0180,EPYC1_m,,flat (no salt response)
+S0181,EPYC1_m,,flat (no salt response)
+S0182,ER,0.5,monotonic decreasing
+S0183,ERD14,0.5,monotonic decreasing
+S0184,EWSR1,0.5,monotonic decreasing
+S0185,EWSR1_m,,flat (no salt response)
+S0186,EWSR1_m,,flat (no salt response)
+S0187,FIB1,2.087477871362288,monotonic decreasing
+S0188,FIB1_m,0.5,monotonic decreasing
+S0189,FKBP39,2.087477871362288,monotonic decreasing
+S0190,FMRP,,monotonic decreasing
+S0191,FMRP_m,443.6764890211091,reentrant (true interior peak)
+S0192,FMRP_m,0.7147151258004609,monotonic decreasing
+S0193,FMRP_m,,flat (no salt response)
+S0194,FMRP_m,,flat (no salt response)
+S0195,FtsZ,,flat (no salt response)
+S0196,FUS,0.5,flat (no salt response)
+S0197,FUS_m,1.4603565784510095,monotonic decreasing
+S0198,FUS_m,94.3394955801373,reentrant (true interior peak)
+S0199,FUS_m,0.5,flat (no salt response)
+S0200,FUS_m,0.5,flat (no salt response)
+S0201,FUS_m,0.5,monotonic decreasing
+S0202,FUS_m,20.059526809614912,flat (no salt response)
+S0203,FUS_m,1.4603565784510095,flat (no salt response)
+S0204,FUS_m,0.5,monotonic decreasing
+S0205,FUS_m,0.5,monotonic decreasing
+S0206,FUS_m,0.5,monotonic decreasing
+S0207,FUS_m,0.5,monotonic decreasing
+S0208,FUS_m,0.5,monotonic decreasing
+S0209,FUS_m,0.5,monotonic decreasing
+S0210,FUS_m,0.5,monotonic decreasing
+S0211,FUS_m,0.5,monotonic decreasing
+S0212,FUS_m,0.5,monotonic decreasing
+S0213,FUS_m,0.5,monotonic decreasing
+S0214,FUS_m,0.5,monotonic decreasing
+S0215,FUS_m,0.5,monotonic decreasing
+S0216,FUS_m,0.5,monotonic decreasing
+S0217,FUS_m,0.5,monotonic decreasing
+S0218,FUS_m,0.5,monotonic decreasing
+S0219,FUS_m,0.5,monotonic decreasing
+S0220,FUS_m,0.5,monotonic decreasing
+S0221,FUS_m,0.5,monotonic decreasing
+S0222,FUS_m,0.5,flat (no salt response)
+S0223,FUS_m,1.0216354220959374,monotonic decreasing
+S0224,FUS_m,0.5,monotonic decreasing
+S0225,FUS_m,1.4603565784510095,monotonic decreasing
+S0226,FUS_m,0.5,flat (no salt response)
+S0227,FUS_m,0.5,flat (no salt response)
+S0228,FUS_m,0.5,flat (no salt response)
+S0229,FUS_m,0.5632367631712766,monotonic decreasing
+S0230,FUS_m,0.7147151258004609,monotonic decreasing
+S0231,FUS_m,0.7147151258004609,monotonic decreasing
+S0232,FUS_m,0.5,monotonic decreasing
+S0233,FUS_m,0.5,monotonic decreasing
+S0234,FUS_m,0.5,flat (no salt response)
+S0235,FUS_m,0.5,monotonic decreasing
+S0236,FUS_m,0.5,monotonic decreasing
+S0237,FUS_m,0.5,monotonic decreasing
+S0238,FUS_m,0.5,monotonic decreasing
+S0239,FUS_m,0.5,flat (no salt response)
+S0240,FUS_m,0.5,flat (no salt response)
+S0241,FUS_m,2.6488896091157375,flat (no salt response)
+S0242,FUS_m,1.4603565784510095,flat (no salt response)
+S0243,FUS_m,1.4603565784510095,flat (no salt response)
+S0244,FUS_m,0.5,flat (no salt response)
+S0245,FUS_m,5.412398907788997,flat (no salt response)
+S0246,FUS_m,0.5,flat (no salt response)
+S0247,FUS_m,0.5,flat (no salt response)
+S0248,FUS_m,0.5,flat (no salt response)
+S0249,FUS_m,0.5632367631712766,monotonic decreasing
+S0250,FUS_m,1.4603565784510095,monotonic increasing
+S0251,FUS_m,0.5,monotonic decreasing
+S0252,FUS_m,,monotonic increasing
+S0253,FUS_m,6.096924083629654,monotonic decreasing
+S0254,FUS_m,5.412398907788997,monotonic decreasing
+S0255,FUS_m,,flat (no salt response)
+S0256,FUS_m,,flat (no salt response)
+S0257,FUS_m,275.53860595640697,monotonic decreasing
+S0258,FUS_m,,flat (no salt response)
+S0259,FUS_m,,flat (no salt response)
+S0260,FUS_m,,monotonic decreasing
+S0261,FUS_m,,monotonic decreasing
+S0262,pFUS,1.0216354220959374,monotonic decreasing
+S0263,FUS-EWSR1_m,0.5,monotonic decreasing
+S0264,FUS-hnRNPA1a_m,,flat (no salt response)
+S0265,G3BP1,25.45438821590539,monotonic decreasing
+S0266,G3BP1_m,1.0216354220959374,monotonic decreasing
+S0267,G3BP1_m,22.596525901989892,monotonic decreasing
+S0268,G3BP1_m,25.45438821590539,monotonic decreasing
+S0269,G3BP1_m,1.4603565784510095,monotonic decreasing
+S0270,G3BP1_m,,flat (no salt response)
+S0271,G3BP1_m,,flat (no salt response)
+S0272,G3BP1_m,,flat (no salt response)
+S0273,G3BP1_m,,flat (no salt response)
+S0274,G3BP2,1.4603565784510095,monotonic decreasing
+S0275,GA-5-V0,,flat (no salt response)
+S0276,GA-5-V1,,flat (no salt response)
+S0277,Galectin-3,563.0,monotonic increasing
+S0278,Galectin-3_m,,monotonic increasing
+S0279,Galectin-3_m,,flat (no salt response)
+S0280,Galectin-3_m,,monotonic decreasing
+S0281,Galectin-3_m,,flat (no salt response)
+S0282,GAR-1_m,1.0216354220959374,monotonic decreasing
+S0283,GATA2,0.5,monotonic decreasing
+S0284,GCN4,32.30015770538816,monotonic decreasing
+S0285,GCN4_m,32.30015770538816,monotonic decreasing
+S0286,GFP,,flat (no salt response)
+S0287,GFP-Dbp1_m,0.5,monotonic decreasing
+S0288,GFP-Dhh1_m,1.4603565784510095,reentrant (true interior peak)
+S0289,GI,4.265282672450279,monotonic decreasing
+S0290,GIT1,0.5,flat (no salt response)
+S0291,GKAP_m,,flat (no salt response)
+S0292,GM130,0.5,monotonic decreasing
+S0293,GP,,monotonic increasing
+S0294,GR,25.45438821590539,monotonic decreasing
+S0295,GRASDSYG,2.6488896091157375,flat (no salt response)
+S0296,GRDGSPYG,0.5,monotonic decreasing
+S0297,GRDGSPYQG,0.5,flat (no salt response)
+S0298,GRGDSAY,5.412398907788997,monotonic decreasing
+S0299,GRGDSAY,0.5,flat (no salt response)
+S0300,GRGDSPFG,2.087477871362288,flat (no salt response)
+S0301,GRGDSPYG,0.5632367631712766,monotonic decreasing
+S0302,GRGESPYG,0.5632367631712766,flat (no salt response)
+S0303,GRGNSPYG,6.096924083629654,monotonic increasing
+S0304,GRPSDSYG,5.412398907788997,monotonic increasing
+S0305,GVAPV,1.0216354220959374,flat (no salt response)
+S0306,GVGAPV,52.010209298300715,monotonic increasing
+S0307,GVGPV,0.5632367631712766,flat (no salt response)
+S0308,GVPGAV,7.736646732525378,monotonic increasing
+S0309,GVPGVA,17.80736638768991,monotonic increasing
+S0310,GY-10-V1,,flat (no salt response)
+S0311,GY-10-V2,,flat (no salt response)
+S0312,GY-10-V3,,flat (no salt response)
+S0313,GY-15-V0,,flat (no salt response)
+S0314,GY-15-V1,,flat (no salt response)
+S0315,GY-20,275.53860595640697,monotonic increasing
+S0316,GY-25-V2,393.8632188380341,monotonic increasing
+S0317,H1,,flat (no salt response)
+S0318,H2B,,flat (no salt response)
+S0319,H3,,flat (no salt response)
+S0320,H4,,flat (no salt response)
+S0321,hBEX3,0.5,reentrant (true interior peak)
+S0322,HBP-0_m,,flat (no salt response)
+S0323,HBP-0_m,,flat (no salt response)
+S0324,HBP-1_m,,flat (no salt response)
+S0325,HBP-1_m,,flat (no salt response)
+S0326,HBP-1_m,,flat (no salt response)
+S0327,HBP-1_m,,flat (no salt response)
+S0328,HBP-1_m,,flat (no salt response)
+S0329,HBP-1_m,275.53860595640697,monotonic increasing
+S0330,HBP-1_m,52.010209298300715,monotonic decreasing
+S0331,HBP-1_m,94.3394955801373,monotonic increasing
+S0332,HBP-1_m,94.3394955801373,monotonic increasing
+S0333,HBP-1_m,151.90690259077468,monotonic increasing
+S0334,HBP-1_m,171.11910423720454,monotonic increasing
+S0335,HBP-1_m,275.53860595640697,monotonic increasing
+S0336,HBP-1_m,310.3869450952251,monotonic increasing
+S0337,HBP-1_m,275.53860595640697,monotonic increasing
+S0338,HBP-2_m,2.6488896091157375,monotonic increasing
+S0339,HBP-2_m,15.808064700381438,flat (no salt response)
+S0340,HBP-2_m,,flat (no salt response)
+S0341,Hdj2,1.4603565784510095,flat (no salt response)
+S0342,hEFhd2_m,0.5,monotonic decreasing
+S0343,hEFhd2_m,,flat (no salt response)
+S0344,hEFhd2_m,,flat (no salt response)
+S0345,hElastin,6.096924083629654,monotonic increasing
+S0346,hElastin_m,20.059526809614912,monotonic increasing
+S0347,hH2A,,flat (no salt response)
+S0348,hHP1α,1.0216354220959374,reentrant (true interior peak)
+S0349,hHP1α_m,2.087477871362288,monotonic decreasing
+S0350,hHP1α_m,1.4603565784510095,monotonic decreasing
+S0351,hHP1α_m,0.5632367631712766,monotonic decreasing
+S0352,hHP1α_m,,monotonic decreasing
+S0353,hHP1α-HP1β_m,1.0216354220959374,monotonic decreasing
+S0354,HIV Gag protein,5.412398907788997,monotonic decreasing
+S0355,HIV NC protein,0.5,monotonic decreasing
+S0356,hNPM1,0.5,monotonic decreasing
+S0357,hNPM1,1.1508452565648732,monotonic decreasing
+S0358,hNPM1_m,0.5,monotonic decreasing
+S0359,hNPM1_m,0.5,monotonic decreasing
+S0360,hNPM1_m,,monotonic decreasing
+S0361,hNPM1_m,,flat (no salt response)
+S0362,hNPM1_m,,flat (no salt response)
+S0363,hNPM1_m,,flat (no salt response)
+S0364,hNPM1_m,,flat (no salt response)
+S0365,hNPM1_m,,flat (no salt response)
+S0366,hnRNPA0,0.5632367631712766,monotonic decreasing
+S0367,hnRNPA1,5.412398907788997,monotonic decreasing
+S0368,hnRNPA1_m,1.4603565784510095,monotonic decreasing
+S0369,hnRNPA1_m,2.6488896091157375,monotonic decreasing
+S0370,hnRNPA1_m,3.361288882407305,monotonic decreasing
+S0371,hnRNPA1_m,6.096924083629654,monotonic decreasing
+S0372,hnRNPA1_m,12.457667219331736,monotonic decreasing
+S0373,hnRNPA1_m,15.808064700381438,monotonic decreasing
+S0374,hnRNPA1_m,11.0589968854212,monotonic decreasing
+S0375,hnRNPA1_m,,flat (no salt response)
+S0376,hnRNPA1_m,,monotonic decreasing
+S0377,hnRNPA1_m,,monotonic increasing
+S0378,hnRNPA1a_m,1.1508452565648732,monotonic decreasing
+S0379,hnRNPA1a_m,2.6488896091157375,monotonic decreasing
+S0380,hnRNPA1b,0.5,monotonic decreasing
+S0381,hnRNPA1L2,0.5,monotonic decreasing
+S0382,hnRNPA2,0.5632367631712766,monotonic decreasing
+S0383,hnRNPA2_m,0.5,flat (no salt response)
+S0384,hnRNPA2_m,0.5,flat (no salt response)
+S0385,hnRNPA2_m,0.5,flat (no salt response)
+S0386,hnRNPA2_m,0.5,flat (no salt response)
+S0387,hnRNPA2_m,0.5,flat (no salt response)
+S0388,hnRNPA2_m,0.5,monotonic decreasing
+S0389,hnRNPA3,0.5632367631712766,monotonic decreasing
+S0390,hnRNPAB,0.5632367631712766,monotonic decreasing
+S0391,hnRNPD,0.5632367631712766,monotonic decreasing
+S0392,hnRNPDL,0.5,monotonic decreasing
+S0393,hnRNPDL_m,8.715127726854456,monotonic decreasing
+S0394,hnRNPDL_m,3.361288882407305,monotonic decreasing
+S0395,hnRNPDL_m,,flat (no salt response)
+S0396,hnRNPDL_m,,monotonic decreasing
+S0397,hnRNPDL_m,,monotonic decreasing
+S0398,hnRNPDL_m,2.9839040188727513,monotonic decreasing
+S0399,hnRNPDL_m,2.9839040188727513,monotonic decreasing
+S0400,hnRNPDL_m,22.596525901989892,monotonic decreasing
+S0401,hnRNPF,,flat (no salt response)
+S0402,hnRNPF_m,,flat (no salt response)
+S0403,hnRNPF_m,,flat (no salt response)
+S0404,hnRNPH1,0.5,monotonic decreasing
+S0405,hnRNPH2,0.5632367631712766,monotonic decreasing
+S0406,hnRNPH3,0.5632367631712766,monotonic decreasing
+S0407,Homer3,,flat (no salt response)
+S0408,HP1β,,flat (no salt response)
+S0409,hRPB1_m,2.6488896091157375,monotonic increasing
+S0410,hRXRγ_m,1.4603565784510095,reentrant (true interior peak)
+S0411,hSUMO-mhnRNPA1_m,2.9839040188727513,monotonic decreasing
+S0412,hSUMO-mhnRNPA1_m,1.0216354220959374,monotonic decreasing
+S0413,hTIA1,2.087477871362288,monotonic decreasing
+S0414,hTIA1_m,,flat (no salt response)
+S0415,hTIA1_m,0.5,monotonic decreasing
+S0416,hTIA1_m,0.5,reentrant (true interior peak)
+S0417,hTIA1_m,0.5,monotonic decreasing
+S0418,hTIA1_m,0.5,monotonic decreasing
+S0419,hU2AF65_m,1.4603565784510095,monotonic decreasing
+S0420,I16,151.90690259077468,flat (no salt response)
+S0421,II16,3.7864029404213757,flat (no salt response)
+S0422,IP5,52.010209298300715,reentrant (true interior peak)
+S0423,IPMK,,flat (no salt response)
+S0424,LAF-1_m,0.5,monotonic decreasing
+S0425,LAF-1,0.5,monotonic decreasing
+S0426,LAF-1,0.5,monotonic decreasing
+S0427,LAF-1 RGG shuf,0.5,monotonic decreasing
+S0428,LAF-1 RGG shuf-pres,0.5,flat (no salt response)
+S0429,LAF-1_m,0.5,monotonic decreasing
+S0430,LAF-1_m,0.5,monotonic decreasing
+S0431,LAF-1_m,0.5,monotonic decreasing
+S0432,LAF-1_m,0.5,monotonic decreasing
+S0433,LAF-1_m,0.5,monotonic decreasing
+S0434,LAF-1_m,0.5,monotonic decreasing
+S0435,LAF-1_m,0.7147151258004609,monotonic decreasing
+S0436,LAF-1_m,,monotonic decreasing
+S0437,LAF-1_m,563.0,monotonic decreasing
+S0438,LAF-1_m,0.5,monotonic decreasing
+S0439,LAF-1-ecAK-LAF-1_m,0.5,monotonic decreasing
+S0440,LAF1-Lge1_m,0.5,monotonic decreasing
+S0441,LAF-Dronpa_m,0.5,monotonic decreasing
+S0442,LEM2_m,0.5,monotonic decreasing
+S0443,LEM2_m,0.5,monotonic decreasing
+S0444,LEM2_m,0.5,monotonic decreasing
+S0445,LEM2_m,0.5632367631712766,monotonic decreasing
+S0446,Lge1,0.5,monotonic decreasing
+S0447,Lge1_m,0.5,monotonic decreasing
+S0448,Lsm4_m,,monotonic decreasing
+S0449,LYS,,flat (no salt response)
+S0450,LYZ,,flat (no salt response)
+S0451,MeCP2,0.5,monotonic decreasing
+S0452,MeCP2_m,0.5,monotonic decreasing
+S0453,MeCP2_m,0.5,monotonic decreasing
+S0454,MeCP2_m,0.5,monotonic decreasing
+S0455,MeCP2_m,0.5,monotonic decreasing
+S0456,MeCP2_m,0.5,monotonic decreasing
+S0457,MeCP2_m,0.5,monotonic decreasing
+S0458,MeCP2_m,,monotonic decreasing
+S0459,MeCP2_m,,flat (no salt response)
+S0460,MED1_m,0.5,flat (no salt response)
+S0461,MED1_m,0.5,monotonic decreasing
+S0462,MED1_m,0.5,monotonic decreasing
+S0463,MED1_m,0.5,monotonic decreasing
+S0464,MED1_m,,monotonic decreasing
+S0465,MED15_m,28.673694454463284,monotonic decreasing
+S0466,MEG3,0.5,monotonic decreasing
+S0467,MEG3_m,0.5,monotonic decreasing
+S0468,Mfp-3S,1.0216354220959374,monotonic increasing
+S0469,Mfp3S-pep,2.6488896091157375,monotonic increasing
+S0470,mhnRNPA1_m,217.14032199024777,monotonic increasing
+S0471,mHP1α,0.7147151258004609,monotonic decreasing
+S0472,Mid1p_m,0.5,flat (no salt response)
+S0473,MLL4_m,0.5,monotonic decreasing
+S0474,mPrP_m,0.5,monotonic decreasing
+S0475,mPrP_m,11.0589968854212,monotonic increasing
+S0476,MSMEG_1642_m,1.4603565784510095,monotonic decreasing
+S0477,mU2AF65,1.4603565784510095,monotonic decreasing
+S0478,MYC,0.5,monotonic decreasing
+S0479,MYO7B_m,,flat (no salt response)
+S0480,MYO7B_m,,flat (no salt response)
+S0481,N,74.3449665630866,reentrant (true interior peak)
+S0482,N_m,,flat (no salt response)
+S0483,N_m,,flat (no salt response)
+S0484,N_m,,flat (no salt response)
+S0485,N_m,,flat (no salt response)
+S0486,N_m,,flat (no salt response)
+S0487,N_m,,flat (no salt response)
+S0488,N_m,,flat (no salt response)
+S0489,N_m,,flat (no salt response)
+S0490,N_m,,flat (no salt response)
+S0491,N-protein_m,,flat (no salt response)
+S0492,N-protein_m,,flat (no salt response)
+S0493,RSV nucleoprotein N,,flat (no salt response)
+S0494,NANOG,0.5,monotonic decreasing
+S0495,NAP,,monotonic increasing
+S0496,Nephrin_m,,flat (no salt response)
+S0497,NR2B,,flat (no salt response)
+S0498,Numb_m,,flat (no salt response)
+S0499,Numb_m,,flat (no salt response)
+S0500,NUP98_m,0.5,monotonic decreasing
+S0501,OCT4,,monotonic decreasing
+S0502,Oleo30G,20.059526809614912,monotonic decreasing
+S0503,Oleo30G_m,3.7864029404213757,monotonic decreasing
+S0504,Oleo30G_m,3.361288882407305,monotonic decreasing
+S0505,Oleo30G_m,32.30015770538816,monotonic decreasing
+S0506,Oleo30G_m,40.98704627837139,monotonic decreasing
+S0507,Oleo30G_m,11.0589968854212,monotonic decreasing
+S0508,Oleo30G_m,11.0589968854212,monotonic decreasing
+S0509,Oleo30G_m,14.033232322562647,monotonic decreasing
+S0510,Oleo30G_m,443.6764890211091,monotonic decreasing
+S0511,OVA,,flat (no salt response)
+S0512,p53,2.9839040188727513,reentrant (true interior peak)
+S0513,p53_m,,flat (no salt response)
+S0514,p53_m,,monotonic decreasing
+S0515,p53_m,2.087477871362288,monotonic decreasing
+S0516,p62,5.412398907788997,monotonic decreasing
+S0517,Pab1_m,0.5632367631712766,monotonic decreasing
+S0518,Pab1_m,0.5,monotonic decreasing
+S0519,Pab1_m,0.5,monotonic decreasing
+S0520,Pab1_m,0.5,monotonic decreasing
+S0521,Pab1_m,0.5,monotonic decreasing
+S0522,Pab1_m,0.5,monotonic decreasing
+S0523,Pab1_m,0.5,monotonic decreasing
+S0524,Pab1_m,3.7864029404213757,monotonic decreasing
+S0525,Pab1_m,,flat (no salt response)
+S0526,pAP_m,,monotonic decreasing
+S0527,Par3_m,2.087477871362288,reentrant (true interior peak)
+S0528,Par3_m,1.4603565784510095,reentrant (true interior peak)
+S0529,Par3_m,1.1508452565648732,reentrant (true interior peak)
+S0530,Par3_m,1.0216354220959374,reentrant (true interior peak)
+S0531,Par6β,,flat (no salt response)
+S0532,Par6β_m,,flat (no salt response)
+S0533,Par6β_m,,flat (no salt response)
+S0534,Par6β_m,,flat (no salt response)
+S0535,Pbp1_m,0.5,monotonic decreasing
+S0536,Pbp1_m,0.5632367631712766,flat (no salt response)
+S0537,Pbp1_m,0.5632367631712766,flat (no salt response)
+S0538,PGL-1,2.6488896091157375,reentrant (true interior peak)
+S0539,PGL-1_m,0.5,reentrant (true interior peak)
+S0540,PGL-1_m,,flat (no salt response)
+S0541,PGL-1_m,,monotonic decreasing
+S0542,PGL-1_m,,flat (no salt response)
+S0543,PGL-3,0.5,monotonic decreasing
+S0544,PGL-3_m,1.0216354220959374,monotonic decreasing
+S0545,PGL-3_m,,flat (no salt response)
+S0546,PGL-3_m,,flat (no salt response)
+S0547,PGL-3_m,,flat (no salt response)
+S0548,PGL-3_m,563.0,monotonic decreasing
+S0549,PGL-3_m,,flat (no salt response)
+S0550,Pmel17_m,151.90690259077468,reentrant (true interior peak)
+S0551,polyE,,flat (no salt response)
+S0552,polyP,,flat (no salt response)
+S0553,polyR,,flat (no salt response)
+S0554,Pon_m,,flat (no salt response)
+S0555,Pon_m,,flat (no salt response)
+S0556,Pon_m,,flat (no salt response)
+S0557,Pon_m,,flat (no salt response)
+S0558,Pon_m,,flat (no salt response)
+S0559,Pon_m,,flat (no salt response)
+S0560,Pon_m,,flat (no salt response)
+S0561,PR,119.71140532779121,monotonic decreasing
+S0562,PR,0.5,flat (no salt response)
+S0563,PR,,flat (no salt response)
+S0564,PR,,flat (no salt response)
+S0565,Pros_m,0.5,monotonic decreasing
+S0566,Pros_m,,monotonic decreasing
+S0567,PrP_m,17.80736638768991,monotonic increasing
+S0568,PSD-95,,flat (no salt response)
+S0569,PSD-95_m,,monotonic decreasing
+S0570,PSPC1,0.5632367631712766,monotonic decreasing
+S0571,Pub1,0.5,monotonic decreasing
+S0572,Pub1_m,0.5,monotonic decreasing
+S0573,Pub1_m,0.5,monotonic decreasing
+S0574,Pub1_m,,flat (no salt response)
+S0575,QYPSDGRG,3.7864029404213757,flat (no salt response)
+S0576,R32,1.0216354220959374,flat (no salt response)
+S0577,Rad52,,flat (no salt response)
+S0578,Rad6,0.7147151258004609,monotonic decreasing
+S0579,RARa,0.5,flat (no salt response)
+S0580,reflectins A1,0.5,monotonic decreasing
+S0581,reflectins A1_m,0.5,monotonic decreasing
+S0582,reflectins A1_m,0.5,monotonic decreasing
+S0583,reflectins A1_m,0.5,monotonic decreasing
+S0584,reflectins A1_m,0.5,monotonic decreasing
+S0585,RGDAPYQG,2.6488896091157375,flat (no salt response)
+S0586,RGDSPHG,12.457667219331736,monotonic increasing
+S0587,RGDSPYG,0.5,flat (no salt response)
+S0588,RGDSPYQG,2.087477871362288,monotonic decreasing
+S0589,RGDSYPG,0.5632367631712766,flat (no salt response)
+S0590,RIM1α,2.087477871362288,monotonic decreasing
+S0591,rmfp-3b,0.5,flat (no salt response)
+S0592,rmfp-3b-NT,0.5,flat (no salt response)
+S0593,Rnase E_m,6.096924083629654,reentrant (true interior peak)
+S0594,RSV phosphoprotein P,,flat (no salt response)
+S0595,Rv1747_m,349.64267657211036,reentrant (true interior peak)
+S0596,scRPB1_m,14.033232322562647,flat (no salt response)
+S0597,scSup35,0.5632367631712766,monotonic decreasing
+S0598,scSup35_m,0.5,monotonic decreasing
+S0599,scSup35_m,0.5,monotonic decreasing
+S0600,scSup35_m,0.5,monotonic decreasing
+S0601,SEPA-1,,flat (no salt response)
+S0602,Shank3_m,,flat (no salt response)
+S0603,SKGP-[GRGDQPYQ]20-GY,275.53860595640697,monotonic increasing
+S0604,SKGP-[GRGDQPYS]20-GY,1.4603565784510095,flat (no salt response)
+S0605,SKGP-[GRGDSPYQ]20-GY,1.4603565784510095,monotonic decreasing
+S0606,SKGP-[GRGDSPYS]20-GY,1.0216354220959374,monotonic decreasing
+S0607,SlmA,0.5,monotonic decreasing
+S0608,Snf5_m,,flat (no salt response)
+S0609,SOX2,0.5,flat (no salt response)
+S0610,Spa2_m,0.5,monotonic decreasing
+S0611,Spa2_m,,flat (no salt response)
+S0612,SPD-5,0.5,monotonic decreasing
+S0613,SPOP_m,,flat (no salt response)
+S0614,SPOP_m,,flat (no salt response)
+S0615,SPOP_m,,flat (no salt response)
+S0616,spSup35,0.7147151258004609,monotonic decreasing
+S0617,SpyC1-ADF3-SpyC2_m,7.736646732525378,monotonic decreasing
+S0618,SRC-3_m,0.5,monotonic decreasing
+S0619,Sth1_m,,flat (no salt response)
+S0620,SUMO-FUS_m,,monotonic decreasing
+S0621,SYD-2_m,0.5,monotonic decreasing
+S0622,SYD-2_m,0.5,flat (no salt response)
+S0623,SYD-2_m,0.5,flat (no salt response)
+S0624,SYD-2_m,0.5,monotonic decreasing
+S0625,SYD-2_m,0.5,monotonic decreasing
+S0626,SYD-2_m,0.5,monotonic decreasing
+S0627,SYD-2_m,0.5,flat (no salt response)
+S0628,SYD-2_m,0.5,flat (no salt response)
+S0629,SYD-2_m,0.5,flat (no salt response)
+S0630,SYD-2_m,0.5,flat (no salt response)
+S0631,SYD-2_m,0.5,flat (no salt response)
+S0632,SYD-2_m,0.5,monotonic decreasing
+S0633,SYD-2_m,0.5,monotonic decreasing
+S0634,SYD-2_m,0.5,flat (no salt response)
+S0635,SYD-2_m,0.5,flat (no salt response)
+S0636,SYD-2_m,0.5,flat (no salt response)
+S0637,SYD-2_m,0.5,flat (no salt response)
+S0638,SYD-2_m,0.5,flat (no salt response)
+S0639,SYD-2_m,0.5,monotonic decreasing
+S0640,SYD-2_m,0.5,monotonic decreasing
+S0641,SYD-2_m,0.5632367631712766,monotonic decreasing
+S0642,SYN1,0.5,monotonic decreasing
+S0643,SYN1_m,0.5,monotonic decreasing
+S0644,SYN1_m,,flat (no salt response)
+S0645,SYN2,0.5,monotonic decreasing
+S0646,Synapsin_m,0.5,monotonic decreasing
+S0647,SynGAP_m,,flat (no salt response)
+S0648,SynGAP_m,,flat (no salt response)
+S0649,SynGAP_m,,flat (no salt response)
+S0650,TACC3,1.4603565784510095,monotonic decreasing
+S0651,TACC3,0.5,monotonic decreasing
+S0652,TACC3_m,0.5,monotonic decreasing
+S0653,TACC3_m,,reentrant (true interior peak)
+S0654,Taf14_m,2.6488896091157375,monotonic decreasing
+S0655,TAF15,0.5,monotonic decreasing
+S0656,TAF15_m,0.5,monotonic decreasing
+S0657,TAF15_m,0.5,monotonic decreasing
+S0658,TAF15_m,0.5632367631712766,monotonic decreasing
+S0659,TAF15_m,,flat (no salt response)
+S0660,TAF15_m,,flat (no salt response)
+S0661,TAF15_m,,flat (no salt response)
+S0662,Tau,2.6488896091157375,monotonic decreasing
+S0663,Tau_m,4.265282672450279,monotonic decreasing
+S0664,Tau_m,5.412398907788997,monotonic decreasing
+S0665,Tau_m,0.5,monotonic decreasing
+S0666,Tau_m,0.5,monotonic decreasing
+S0667,Tau_m,0.5,monotonic decreasing
+S0668,Tau_m,0.5,monotonic decreasing
+S0669,Tau_m,0.5,monotonic decreasing
+S0670,Tau_m,0.5,monotonic decreasing
+S0671,Tau_m,14.033232322562647,monotonic decreasing
+S0672,Tau_m,2.9839040188727513,monotonic decreasing
+S0673,Tau_m,4.265282672450279,monotonic decreasing
+S0674,Tau_m,3.361288882407305,reentrant (true interior peak)
+S0675,Tau_m,2.087477871362288,monotonic decreasing
+S0676,Tau_m,0.5632367631712766,monotonic decreasing
+S0677,Tau_m,0.5632367631712766,monotonic decreasing
+S0678,Tau_m,0.5,monotonic decreasing
+S0679,Tau_m,0.5,monotonic decreasing
+S0680,Tau_m,0.5632367631712766,monotonic decreasing
+S0681,Tau_m,1.0216354220959374,monotonic decreasing
+S0682,Tau_m,94.3394955801373,monotonic decreasing
+S0683,Tau_m,,monotonic decreasing
+S0684,Tau_m,,flat (no salt response)
+S0685,Tau_m,,flat (no salt response)
+S0686,Tau_m,,flat (no salt response)
+S0687,Tau_m,,flat (no salt response)
+S0688,Tau_m,,monotonic decreasing
+S0689,TAZ,2.087477871362288,monotonic increasing
+S0690,TAZ_m,1.6450530246452542,monotonic increasing
+S0691,TAZ_m,2.6488896091157375,flat (no salt response)
+S0692,TAZ_m,,flat (no salt response)
+S0693,TAZ_m,,monotonic decreasing
+S0694,TAZ-YAP-TAZ_m,1.4603565784510095,monotonic increasing
+S0695,TAZ-YAP-TAZ_m,,flat (no salt response)
+S0696,TAZ-YAP-TAZ-YAP-TAZ_m,,flat (no salt response)
+S0697,TDP-43,2.6488896091157375,reentrant (true interior peak)
+S0698,TDP-43_m,36.38527255180918,reentrant (true interior peak)
+S0699,TDP-43_m,0.5632367631712766,flat (no salt response)
+S0700,TDP-43_m,1.4603565784510095,monotonic increasing
+S0701,TDP-43_m,0.7147151258004609,monotonic increasing
+S0702,TDP-43_m,4.804728012882856,monotonic increasing
+S0703,TDP-43_m,0.5,flat (no salt response)
+S0704,TDP-43_m,52.010209298300715,flat (no salt response)
+S0705,TDP-43_m,32.30015770538816,monotonic decreasing
+S0706,TDP-43_m,36.38527255180918,flat (no salt response)
+S0707,TDP-43_m,0.5,flat (no salt response)
+S0708,TDP-43_m,32.30015770538816,flat (no salt response)
+S0709,TDP-43_m,0.5,flat (no salt response)
+S0710,TDP-43_m,5.412398907788997,monotonic increasing
+S0711,TDP-43_m,5.412398907788997,monotonic increasing
+S0712,TDP-43_m,0.7147151258004609,monotonic increasing
+S0713,TDP-43_m,11.0589968854212,monotonic increasing
+S0714,TDP-43_m,1.0216354220959374,monotonic increasing
+S0715,TDP-43_m,20.059526809614912,monotonic increasing
+S0716,TDP-43_m,1.0216354220959374,monotonic increasing
+S0717,TDP-43_m,52.010209298300715,monotonic increasing
+S0718,TDP-43_m,14.033232322562647,monotonic increasing
+S0719,TDP-43_m,1.0216354220959374,monotonic increasing
+S0720,TDP-43_m,2.6488896091157375,reentrant (true interior peak)
+S0721,TDP-43_m,1.4603565784510095,monotonic decreasing
+S0722,TDP-43_m,0.5,flat (no salt response)
+S0723,TDP-43_m,0.5,flat (no salt response)
+S0724,TDP-43_m,0.5,flat (no salt response)
+S0725,TDP-43_m,0.5,flat (no salt response)
+S0726,TDP-43_m,11.0589968854212,reentrant (true interior peak)
+S0727,TDP-43_m,32.30015770538816,monotonic increasing
+S0728,TDP-43_m,52.010209298300715,monotonic increasing
+S0729,TDP-43_m,28.673694454463284,monotonic increasing
+S0730,TDP-43_m,32.30015770538816,monotonic increasing
+S0731,TDP-43_m,1.0216354220959374,monotonic decreasing
+S0732,TDP-43_m,1.0216354220959374,monotonic decreasing
+S0733,TDP-43_m,1.0216354220959374,reentrant (true interior peak)
+S0734,TDP-43_m,1.0216354220959374,monotonic decreasing
+S0735,TDP-43_m,1.0216354220959374,reentrant (true interior peak)
+S0736,TDP-43_m,1.0216354220959374,monotonic decreasing
+S0737,TDP-43_m,1.0216354220959374,monotonic decreasing
+S0738,TDP-43_m,1.4603565784510095,reentrant (true interior peak)
+S0739,TDP-43_m,6.096924083629654,reentrant (true interior peak)
+S0740,TDP-43_m,,reentrant (true interior peak)
+S0741,TDP-43_m,,flat (no salt response)
+S0742,TDP-43_m,,monotonic increasing
+S0743,TDP-43_m,,flat (no salt response)
+S0744,TDP-43-MBP,0.5,monotonic decreasing
+S0745,TDP-43-MBP_m,0.5,monotonic decreasing
+S0746,TEAD4,,monotonic decreasing
+S0747,TFE3,0.7147151258004609,monotonic decreasing
+S0748,TFEB,0.5,flat (no salt response)
+S0749,TFEB_m,2.6488896091157375,monotonic decreasing
+S0750,TFEB_m,2.087477871362288,monotonic decreasing
+S0751,TFEB_m,,flat (no salt response)
+S0752,TIAL1,1.4603565784510095,monotonic decreasing
+S0753,TIAR-2,0.5,monotonic decreasing
+S0754,TOG_m,,flat (no salt response)
+S0755,TPVAVG,20.059526809614912,monotonic increasing
+S0756,TPVAVG,0.5,flat (no salt response)
+S0757,TPVAVG,1.0216354220959374,flat (no salt response)
+S0758,TPX2,0.5,monotonic decreasing
+S0759,TVPGAG,4.804728012882856,monotonic increasing
+S0760,TVPGVG,14.033232322562647,monotonic increasing
+S0761,U1-70K_m,0.5,monotonic decreasing
+S0762,U1-70K_m,0.5,monotonic decreasing
+S0763,U1-70K_m,5.412398907788997,monotonic decreasing
+S0764,U1-70K_m,1.4603565784510095,monotonic decreasing
+S0765,UBQLN2,58.58812387407107,monotonic decreasing
+S0766,UBQLN2_m,58.58812387407107,monotonic decreasing
+S0767,UBQLN2_m,65.99797050221912,reentrant (true interior peak)
+S0768,UBQLN2_m,5.412398907788997,reentrant (true interior peak)
+S0769,UBQLN2_m,65.99797050221912,monotonic increasing
+S0770,UBQLN2_m,40.98704627837139,reentrant (true interior peak)
+S0771,UBQLN2_m,22.596525901989892,reentrant (true interior peak)
+S0772,UBQLN2_m,65.99797050221912,monotonic increasing
+S0773,UBQLN2_m,22.596525901989892,reentrant (true interior peak)
+S0774,UBQLN2_m,65.99797050221912,monotonic increasing
+S0775,UBQLN2_m,22.596525901989892,reentrant (true interior peak)
+S0776,UBQLN2_m,52.010209298300715,reentrant (true interior peak)
+S0777,UBQLN2_m,25.45438821590539,reentrant (true interior peak)
+S0778,UBQLN2_m,,flat (no salt response)
+S0779,UBQLN2_m,,flat (no salt response)
+S0780,UBQLN2_m,,flat (no salt response)
+S0781,UBQLN2_m,217.14032199024777,flat (no salt response)
+S0782,UBQLN2_m,275.53860595640697,flat (no salt response)
+S0783,UBQLN2_m,,reentrant (true interior peak)
+S0784,UBQLN2_m,,reentrant (true interior peak)
+S0785,UL11,22.596525901989892,reentrant (true interior peak)
+S0786,USH1C,,flat (no salt response)
+S0787,VAPGVG,20.059526809614912,monotonic increasing
+S0788,VAPVG,4.804728012882856,monotonic increasing
+S0789,VAPVG,2.087477871362288,flat (no salt response)
+S0790,VAPVG,0.5632367631712766,flat (no salt response)
+S0791,VAPVG,2.6488896091157375,monotonic increasing
+S0792,VAPVG,6.096924083629654,monotonic increasing
+S0793,VAPVG,0.7147151258004609,flat (no salt response)
+S0794,VGAPVG,2.6488896091157375,flat (no salt response)
+S0795,VGPAVG,22.596525901989892,monotonic increasing
+S0796,VGPVG,11.0589968854212,monotonic increasing
+S0797,VGPVG,0.5632367631712766,flat (no salt response)
+S0798,VHL_m,,flat (no salt response)
+S0799,VHPGVG,94.3394955801373,monotonic increasing
+S0800,VHPGVG,15.808064700381438,monotonic increasing
+S0801,VPAGLG,7.736646732525378,monotonic increasing
+S0802,VPAGVG,,monotonic increasing
+S0803,VPAVG,20.059526809614912,monotonic increasing
+S0804,VPGAVG,2.087477871362288,monotonic increasing
+S0805,VPGVA,25.45438821590539,monotonic increasing
+S0806,VPGVG,6.096924083629654,monotonic increasing
+S0807,VPGVG,25.45438821590539,monotonic increasing
+S0808,VPGVG,1.4603565784510095,flat (no salt response)
+S0809,VPHSRNGG,3.361288882407305,monotonic increasing
+S0810,VPHSRNGGNSGGRGDSPYG,1.4603565784510095,flat (no salt response)
+S0811,VPHVG,217.14032199024777,monotonic increasing
+S0812,VPSALYGVG,20.059526809614912,monotonic increasing
+S0813,VPSDDYGQG,15.808064700381438,monotonic increasing
+S0814,VPSDDYGVG,2.6488896091157375,monotonic increasing
+S0815,VPSTDYGVG,46.17082255556245,monotonic increasing
+S0816,VPTGVG,11.0589968854212,monotonic increasing
+S0817,VRPDG,22.596525901989892,monotonic increasing
+S0818,VRPDG,15.808064700381438,monotonic increasing
+S0819,VRPDG,310.3869450952251,flat (no salt response)
+S0820,VRPVG,25.45438821590539,monotonic increasing
+S0821,VTPAVG,25.45438821590539,monotonic increasing
+S0822,WAC-Lge1_m,0.5,monotonic decreasing
+S0823,Whi3,17.80736638768991,monotonic decreasing
+S0824,Whi3,0.5,monotonic decreasing
+S0825,Whi3,0.5,monotonic decreasing
+S0826,Whi3,0.5,monotonic decreasing
+S0827,Whi3_m,,monotonic decreasing
+S0828,Whi3_m,,monotonic decreasing
+S0829,YAP,94.3394955801373,monotonic decreasing
+S0830,YAP,1.4603565784510095,flat (no salt response)
+S0831,YAP_m,5.412398907788997,monotonic decreasing
+S0832,YAP-2α,,flat (no salt response)
+S0833,YAP-TAZ-YAP_m,0.5,flat (no salt response)
+S0834,YAP-TAZ-YAP_m,0.5,flat (no salt response)
+S0835,YAP-TAZ-YAP-TAZ-YAP_m,0.5,flat (no salt response)
+S0836,ZO1,4.265282672450279,monotonic decreasing
+S0837,ZO1_m,0.5,monotonic decreasing
+S0838,ZO1_m,,flat (no salt response)
+S0839,ZO1_m,,flat (no salt response)
+S0840,ZO2,3.361288882407305,monotonic decreasing
+S0841,ZO2_m,0.5,monotonic decreasing
+S0842,ZO2_m,,flat (no salt response)
+S0843,ZO2_m,,flat (no salt response)
+S0844,ZO3,2.087477871362288,monotonic decreasing
+S0845,ZO3_m,0.5,monotonic decreasing
+S0846,ZO3_m,,flat (no salt response)
+S0847,ZO3_m,,flat (no salt response)
+S0848,zRbm14b,0.5,monotonic decreasing
+S0849,zRbm14b_m,0.5,monotonic decreasing
+S0850,zRbm14b_m,,flat (no salt response)
+S0851,β-amyloid_m,,flat (no salt response)
+S0852,β-synuclein,17.80736638768991,reentrant (true interior peak)
+S0853,γ-gliadin,2.087477871362288,flat (no salt response)

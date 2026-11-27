@@ -1,0 +1,6 @@
+,folds,ROC-AUC,PR-AUC,Accuracy,F1,Brier
+"A  new condition, known protein",10,0.834 ± 0.003,0.848,0.759,0.785,0.172
+B  new protein,10,0.786 ± 0.005,0.804,0.719,0.736,0.204
+C  new family (their groups),25,0.683 ± 0.009,0.714,0.625,0.649,0.248
+C* new family (hardened),25,0.659 ± 0.009,0.685,0.606,0.608,0.258
+control  random merge,25,0.701 ± 0.007,0.725,0.649,0.668,0.236

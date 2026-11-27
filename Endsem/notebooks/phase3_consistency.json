@@ -1,0 +1,1 @@
+{"unconstrained (LLPSense-style)": {"Conc": 0.06227272727272727, "PEG3k-6k": 0.009727272727272727, "Ficoll": 0.0022727272727272726, "NaCl": 0.2935}, "physics-constrained (ours)": {"Conc": 0.0, "PEG3k-6k": 0.0, "Ficoll": 0.0, "NaCl": 0.2625909090909091}}
